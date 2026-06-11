@@ -10,7 +10,15 @@ export default function Home() {
   return (
     <main>
       <section style={{ padding: '30px', textAlign: 'center' }}>
-        <img src="/logo.png" alt="Aquapure Plus" style={{ maxWidth: '340px', width: '90%' }} />
+       <img
+  src="/logo.png"
+  alt="Aquapure Plus"
+  style={{
+    maxWidth: '700px',
+    width: '95%',
+    marginBottom: '20px'
+  }}
+/>
 
         <h1>Trusted Window Cleaners in Northampton Since 2006</h1>
         <p>
@@ -87,7 +95,7 @@ export default function Home() {
       <section style={{ ...sectionStyle, background: '#0b2347', color: 'white' }}>
         <h2 style={{ color: 'white' }}>Request a Free Quote</h2>
         <p><strong>Mark:</strong> 07456 871686</p>
-        <p><strong>Roy:</strong> 07768 872207</p>
+        <p><strong>Roy:</strong> 07448 863669</p>
         <p><strong>Freephone:</strong> 0800 625 0628</p>
         <p><strong>Email:</strong> {email}</p>
 
