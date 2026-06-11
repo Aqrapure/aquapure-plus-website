@@ -20,6 +20,8 @@ export default function Home() {
   }}
 />
 
+
+        
         <h1
   style={{
     fontSize: '3rem',
@@ -28,7 +30,7 @@ export default function Home() {
   }}
 >
   Aquapure Plus
-</h1>
+<h1>Trusted Window Cleaners in Northampton Since 2006</h1>
         <h2>Trusted Window Cleaners in Northampton Since 2006</h2>
         <p>
           Professional window cleaning, gutter clearing, conservatory roof cleaning
