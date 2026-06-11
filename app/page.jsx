@@ -20,7 +20,16 @@ export default function Home() {
   }}
 />
 
-        <h1>Trusted Window Cleaners in Northampton Since 2006</h1>
+        <h1
+  style={{
+    fontSize: '3rem',
+    color: '#0067d8',
+    marginBottom: '10px'
+  }}
+>
+  Aquapure Plus
+</h1>
+        <h2>Trusted Window Cleaners in Northampton Since 2006</h2>
         <p>
           Professional window cleaning, gutter clearing, conservatory roof cleaning
           and exterior cleaning services across Northampton and surrounding areas.
