@@ -11,7 +11,7 @@ export default function Home() {
     <main>
       <section style={{ padding: '30px', textAlign: 'center' }}>
        <img
- src="/aquapure-plus-vercel/public/logo.png"
+ src="/logo.png"
   alt="Aquapure Plus"
   style={{
     maxWidth: '700px',
