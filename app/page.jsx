@@ -24,7 +24,13 @@ export default function Home() {
 
         
         
-        <h2 style={{ fontSize: '3rem', marginBottom: '15px', color: '#0067d8' }}>
+        <h2 style={{
+  fontSize: '3.2rem',
+  marginBottom: '15px',
+  color: '#0067d8',
+  maxWidth: '1200px',
+  margin: '0 auto 15px auto'
+}}>
   Trusted Window Cleaners in Northampton Since 2006
 </h2>
         <p>
