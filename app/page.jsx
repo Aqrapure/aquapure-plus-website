@@ -33,10 +33,9 @@ export default function Home() {
 }}>
   Trusted Window Cleaners in Northampton Since 2006
 </h2>
-        <p>
-          Professional window cleaning, gutter clearing, conservatory roof cleaning
-          and exterior cleaning services across Northampton and surrounding areas.
-        </p>
+        <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
+  Professional window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services across Northampton and surrounding areas.
+</p>
 
         <p><strong>Mark:</strong> 07456 871686</p>
         <p><strong>Roy:</strong> 07448 863669</p>
