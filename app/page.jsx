@@ -64,13 +64,13 @@ export default function Home() {
             <div key={title} style={cardStyle}>
   <img
     src={
-      title === 'Window Cleaning' ? '/hero.jpg' :
-      title === 'Conservatory Roof Cleaning' ? '/conservatory-cleaning.jpg' :
-      title === 'Gutter Clearing' ? '/gutter-fascia-cleaning.jpg' :
-      title === 'Fascia & Soffit Cleaning' ? '/gutter-fascia-cleaning.jpg' :
-      title === 'Patio Pressure Washing' ? '/exterior-cleaning.jpg' :
-      '/exterior-cleaning.jpg'
-    }
+  title === 'Window Cleaning' ? '/house window - van.jpg' :
+  title === 'Conservatory Roof Cleaning' ? '/Conservatory Roof clean 2.JPG' :
+  title === 'Gutter Clearing' ? '/Exterior Gutter- Facia clean.JPG' :
+  title === 'Fascia & Soffit Cleaning' ? '/Facia - Exteria Gutter clean.png' :
+  title === 'Patio Pressure Washing' ? '/Pattio Pressure Wash.jpg' :
+  '/house 1.jpg'
+}
     alt={title}
     style={imageStyle}
   />
