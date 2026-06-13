@@ -62,9 +62,21 @@ export default function Home() {
             ['Driveway Pressure Washing', 'Professional driveway cleaning to improve kerb appeal.'],
           ].map(([title, text]) => (
             <div key={title} style={cardStyle}>
-              <h3>{title}</h3>
-              <p>{text}</p>
-            </div>
+  <img
+    src={
+      title === 'Window Cleaning' ? '/hero.jpg' :
+      title === 'Conservatory Roof Cleaning' ? '/conservatory-cleaning.jpg' :
+      title === 'Gutter Clearing' ? '/gutter-fascia-cleaning.jpg' :
+      title === 'Fascia & Soffit Cleaning' ? '/gutter-fascia-cleaning.jpg' :
+      title === 'Patio Pressure Washing' ? '/exterior-cleaning.jpg' :
+      '/exterior-cleaning.jpg'
+    }
+    alt={title}
+    style={imageStyle}
+  />
+  <h3>{title}</h3>
+  <p style={{ fontSize: '1.1rem', lineHeight: '1.6' }}>{text}</p>
+</div>
           ))}
         </div>
       </section>
