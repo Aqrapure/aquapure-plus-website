@@ -13,11 +13,12 @@ export default function Home() {
        <img
  src="/AQUAPURE%20LOGO.png"
   alt="Aquapure Plus"
-  style={{
+ style={{
   maxWidth: '550px',
-width: '95%',
-marginBottom: '5px'
-  }}
+  width: '95%',
+  display: 'block',
+  margin: '0 auto -80px auto'
+}}
 />
 
 
