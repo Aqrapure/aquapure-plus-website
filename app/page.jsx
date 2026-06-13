@@ -14,23 +14,15 @@ export default function Home() {
  src="/AQUAPURE%20LOGO.png"
   alt="Aquapure Plus"
   style={{
-    maxWidth: '700px',
-    width: '95%',
-    marginBottom: '20px'
+  maxWidth: '850px',
+width: '95%',
+marginBottom: '5px'
   }}
 />
 
 
         
-        <h1
-  style={{
-    fontSize: '3rem',
-    color: '#0067d8',
-    marginBottom: '10px'
-  }}
->
-  Aquapure Plus
-</h1>
+        
         <h2>Trusted Window Cleaners in Northampton Since 2006</h2>
         <p>
           Professional window cleaning, gutter clearing, conservatory roof cleaning
