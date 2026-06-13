@@ -24,7 +24,9 @@ export default function Home() {
 
         
         
-        <h2>Trusted Window Cleaners in Northampton Since 2006</h2>
+        <h2 style={{ fontSize: '3rem', marginBottom: '15px', color: '#0067d8' }}>
+  Trusted Window Cleaners in Northampton Since 2006
+</h2>
         <p>
           Professional window cleaning, gutter clearing, conservatory roof cleaning
           and exterior cleaning services across Northampton and surrounding areas.
