@@ -66,7 +66,7 @@ export default function Home() {
     src={
   title === 'Window Cleaning' ? '/house window - van.jpg' :
   title === 'Conservatory Roof Cleaning' ? '/Conservatory Roof clean 2.JPG' :
-  title === 'Gutter Clearing' ? '/gutter-vacuum.jpg' :
+  title === 'Gutter Clearing' ? '/gutter-vacuum.jpg.jpg' :
   title === 'Fascia & Soffit Cleaning' ? '/Facia - Exteria Gutter clean.png' :
   title === 'Patio Pressure Washing' ? '/Pattio Pressure Wash.jpg' :
   title === 'Driveway Pressure Washing' ? '/house 1.jpg' :
