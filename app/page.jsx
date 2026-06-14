@@ -59,7 +59,7 @@ export default function Home() {
             ['Gutter Clearing', 'Professional gutter clearing using our gutter vacuum system to safely remove leaves, moss and debris from gutters without the need for ladders in most situations.'],
             ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with exterior UPVC cleaning.'],
             ['Patio Pressure Washing', 'Pressure washing for patios, paths and outdoor hard surfaces.'],
-            ['NEW SERVICE – Professional driveway and patio pressure washing to restore surfaces and improve kerb appeal.'
+            ['Driveway Pressure Washing', 'NEW SERVICE - Professional driveway and patio pressure washing to restore surfaces and improve kerb appeal.'],
           ].map(([title, text]) => (
             <div key={title} style={cardStyle}>
   <img
@@ -68,8 +68,9 @@ export default function Home() {
   title === 'Conservatory Roof Cleaning' ? '/Conservatory Roof clean 2.JPG' :
  title === 'Gutter Clearing', ? '/Exterior Gutter- Facia clean.JPG' :
   title === 'Fascia & Soffit Cleaning' ? '/Facia - Exteria Gutter clean.png' :
-  title === 'Patio Pressure Washing' ? '/Pattio Pressure Wash.jpg' :
-  '/house 1.jpg'
+ title === 'Patio Pressure Washing' ? '/Pattio Pressure Wash.jpg' :
+title === 'Driveway Pressure Washing' ? '/house 1.jpg' :
+'/house 1.jpg'
 }
     alt={title}
     style={imageStyle}
