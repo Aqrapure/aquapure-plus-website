@@ -56,10 +56,10 @@ export default function Home() {
           {[
             ['Window Cleaning', 'Regular and one-off pure water window cleaning for homes and small businesses.'],
             ['Conservatory Roof Cleaning', 'Professional cleaning of conservatory roofs, frames and glass panels.'],
-            ['Gutter Clearing', 'Removal of leaves, moss and debris to help prevent blockages and water damage.'],
+            ['gutter-vacuum.jpg' 'Professional gutter clearing using our gutter vacuum system to safely remove leaves, moss and debris from hard-to-reach gutters.'
             ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with exterior UPVC cleaning.'],
             ['Patio Pressure Washing', 'Pressure washing for patios, paths and outdoor hard surfaces.'],
-            ['Driveway Pressure Washing', 'Professional driveway cleaning to improve kerb appeal.'],
+            ['NEW SERVICE – Professional driveway and patio pressure washing to restore surfaces and improve kerb appeal.'
           ].map(([title, text]) => (
             <div key={title} style={cardStyle}>
   <img
