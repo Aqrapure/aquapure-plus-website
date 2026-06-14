@@ -72,7 +72,7 @@ export default function Home() {
   title === 'Driveway Pressure Washing' ? '/house 1.jpg' :
   '/house 1.jpg'
 }
-}
+
     alt={title}
     style={imageStyle}
   />
