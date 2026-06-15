@@ -146,16 +146,18 @@ export default function Home() {
       </section>
 
       <section style={sectionStyle}>
-        <h2>Recent Work</h2>
-        <p style={{ textAlign: 'center' }}>
-          A selection of residential and exterior cleaning work carried out locally.
-        </p>
+  <h2>Recent Work Across Northampton</h2>
+  <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
+    A selection of window cleaning, gutter clearing, conservatory cleaning and exterior cleaning work carried out locally.
+  </p>
 
         <div style={galleryStyle}>
-          <img src="/hero.jpg" alt="Residential window cleaning Northampton" style={imageStyle} />
-          <img src="/conservatory-cleaning.jpg" alt="Conservatory cleaning Northampton" style={imageStyle} />
-          <img src="/conservatory-after.jpg" alt="Clean conservatory roof" style={imageStyle} />
-          <img src="/high-reach-window-cleaning.jpg" alt="High reach window cleaning" style={imageStyle} />
+          <img src="/house window - van.jpg" alt="Residential window cleaning Northampton" style={imageStyle} />
+<img src="/Conservatory Roof clean 2.JPG" alt="Conservatory cleaning Northampton" style={imageStyle} />
+<img src="/gutter-vacuum.jpg" alt="Gutter vacuum cleaning Northampton" style={imageStyle} />
+<img src="/driveway-before-after.jpg" alt="Driveway pressure washing before and after" style={imageStyle} />
+<img src="/Pattio Pressure Wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
+<img src="/Commercial window clean.png" alt="Commercial window cleaning Northampton" style={imageStyle} />
         </div>
       </section>
 
