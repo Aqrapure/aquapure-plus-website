@@ -86,12 +86,63 @@ export default function Home() {
 
       <section style={sectionStyle}>
         <h2>Why Choose Aquapure Plus?</h2>
-        <div style={gridStyle}>
-          <div style={cardStyle}><strong>Established Since 2006</strong><p>Nearly 20 years serving Northampton homeowners.</p></div>
-          <div style={cardStyle}><strong>Fully Insured</strong><p>Professional service with peace of mind.</p></div>
-          <div style={cardStyle}><strong>Local & Reliable</strong><p>Friendly service from a trusted Northampton business.</p></div>
-          <div style={cardStyle}><strong>Free Quotations</strong><p>No-obligation quotes for regular and one-off cleans.</p></div>
-        </div>
+        <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
+  Trusted window cleaning and exterior cleaning services across Northampton since 2006.
+</p>
+
+<div style={gridStyle}>
+
+  <div style={cardStyle}>
+    <strong>Regular Reliable 4 or 8 Weekly Service Rounds</strong>
+    <p>Scheduled window cleaning available on our regular 4 or 8 weekly rounds.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Text Reminder Before Every Visit</strong>
+    <p>We'll send you a text the day before your scheduled clean.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Established Since 2006</strong>
+    <p>Nearly 20 years serving Northampton homeowners and businesses.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Residential & Commercial Properties</strong>
+    <p>Professional window cleaning services for homes, offices and commercial premises.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Pure Water Window Cleaning System</strong>
+    <p>Streak-free results using modern pure water cleaning systems.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Frames, Sills & UPVC Doors Included</strong>
+    <p>A complete clean every visit, not just the glass.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Friendly Local Team</strong>
+    <p>Local Northampton service with a reputation built on customer care.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Gutter Vacuum Cleaning System</strong>
+    <p>Safe high-level gutter clearing without ladders in most situations.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Fully Insured</strong>
+    <p>Professional service with complete peace of mind.</p>
+  </div>
+
+  <div style={cardStyle}>
+    <strong>Free No-Obligation Quotations</strong>
+    <p>Honest pricing with no pressure or hidden costs.</p>
+  </div>
+
+</div>
       </section>
 
       <section style={sectionStyle}>
