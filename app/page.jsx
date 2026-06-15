@@ -69,7 +69,7 @@ export default function Home() {
   title === 'Gutter Clearing' ? '/gutter-vacuum.jpg.jpg' :
   title === 'Fascia & Soffit Cleaning' ? '/Facia - Exteria Gutter clean.png' :
   title === 'Patio Pressure Washing' ? '/Pattio Pressure Wash.jpg' :
-  title === 'Driveway Pressure Washing' ? '/house 1.jpg' :
+
  title === 'Driveway Pressure Washing' ? '/driveway-before-after.jpg' :
       '/house 1.jpg'
 }
