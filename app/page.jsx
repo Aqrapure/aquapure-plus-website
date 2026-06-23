@@ -156,7 +156,7 @@ export default function Home() {
 
   <img src="/glass-roof1-after.jpg" alt="Conservatory roof cleaning Northampton" style={imageStyle} />
 
-  <img src="/gutter-before.jpg" alt="Gutter cleaning Northampton" style={imageStyle} />
+ <img src="/gutter-before .jpg" alt="Gutter cleaning Northampton" style={imageStyle} />
 
   <img src="/driveway-before-after.jpg" alt="Driveway pressure washing Northampton" style={imageStyle} />
 
