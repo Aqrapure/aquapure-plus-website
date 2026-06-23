@@ -211,8 +211,9 @@ export default function Home() {
 
       <section style={{ ...sectionStyle, background: '#0b2347', color: 'white' }}>
         <h2 style={{ color: 'white' }}>Request a Free Quote</h2>
-        <p style={{ marginBottom: "25px", fontSize: "1.05rem" }}>
+        <p style={{ marginBottom: "25px", lineHeight: "1.6" }}>
   Fully insured local window cleaners serving Northampton and surrounding villages.
+  <br />
   Free quotations with no pressure and no hidden costs.
 </p>
         <p><strong>Mark:</strong> 07456 871686</p>
