@@ -211,6 +211,10 @@ export default function Home() {
 
       <section style={{ ...sectionStyle, background: '#0b2347', color: 'white' }}>
         <h2 style={{ color: 'white' }}>Request a Free Quote</h2>
+        <p style={{ marginBottom: "25px", fontSize: "1.05rem" }}>
+  Fully insured local window cleaners serving Northampton and surrounding villages.
+  Free quotations with no pressure and no hidden costs.
+</p>
         <p><strong>Mark:</strong> 07456 871686</p>
         <p><strong>Roy:</strong> 07448 863669</p>
         <p><strong>Freephone:</strong> 0800 625 0628</p>
