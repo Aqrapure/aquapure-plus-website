@@ -144,7 +144,29 @@ export default function Home() {
 
 </div>
       </section>
+<section style={sectionStyle}>
+  <h2>What Our Customers Say</h2>
 
+  <div style={gridStyle}>
+    <div style={cardStyle}>
+      <strong>★★★★★</strong>
+      <p>Reliable and professional service. Windows always left spotless and text reminders are very helpful.</p>
+      <p><em>– Northampton Customer</em></p>
+    </div>
+
+    <div style={cardStyle}>
+      <strong>★★★★★</strong>
+      <p>Conservatory roof came up like new. Friendly service and fair pricing.</p>
+      <p><em>– Duston Customer</em></p>
+    </div>
+
+    <div style={cardStyle}>
+      <strong>★★★★★</strong>
+      <p>Have used Aquapure Plus for years. Always reliable and excellent results.</p>
+      <p><em>– Kingsthorpe Customer</em></p>
+    </div>
+  </div>
+</section>
       <section style={sectionStyle}>
   <h2>Recent Work Across Northampton</h2>
   <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
