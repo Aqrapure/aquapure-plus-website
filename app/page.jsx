@@ -190,7 +190,7 @@ export default function Home() {
 
       <section style={sectionStyle}>
         <h2>Areas Covered</h2>
-       <p style={{ textAlign: 'center' }}>
+       <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 20px' }}>
   We provide regular window cleaning, gutter clearing, conservatory roof cleaning
   and exterior cleaning services throughout Northampton and surrounding villages.
 </p>
