@@ -190,12 +190,23 @@ export default function Home() {
 
       <section style={sectionStyle}>
         <h2>Areas Covered</h2>
-        <p style={{ textAlign: 'center' }}>
-          We cover Northampton and surrounding villages within approximately 8–10 miles.
-        </p>
-        <p style={{ textAlign: 'center' }}>
-          Northampton • Kingsthorpe • Duston • Moulton • Wootton • Boughton • West Hunsbury • Upton
-        </p>
+       <p style={{ textAlign: 'center' }}>
+  We provide regular window cleaning, gutter clearing, conservatory roof cleaning
+  and exterior cleaning services throughout Northampton and surrounding villages.
+</p>
+
+<p style={{ textAlign: 'center' }}>
+  Areas regularly covered include:
+</p>
+
+<p style={{ textAlign: 'center' }}>
+  Northampton • Kingsthorpe • Duston • Moulton • Wootton • Boughton •
+  West Hunsbury • East Hunsbury • Upton • Grange Park
+</p>
+
+<p style={{ textAlign: 'center' }}>
+  Other nearby villages considered on request.
+</p>
       </section>
 
       <section style={{ ...sectionStyle, background: '#0b2347', color: 'white' }}>
