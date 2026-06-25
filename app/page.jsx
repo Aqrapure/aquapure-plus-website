@@ -174,13 +174,33 @@ export default function Home() {
   </p>
 
       <div style={galleryStyle}>
-  <img src="/stock-twobed-house.jpg" style={imageStyle} />
-<img src="/glass-roof1-after.jpg" style={imageStyle} />
-<img src="/gutter-before .jpg" style={imageStyle} />
-<img src="/gutterafter-clean.jpg" style={imageStyle} />
-<img src="/driveway-before-after.jpg" style={imageStyle} />
-<img src="/Pattio Pressure Wash.jpg" style={imageStyle} />
-<img src="/commercial-one.jpg" style={imageStyle} />
+  <img src="/stock-twobed-house.jpg"
+     alt="Residential window cleaning Northampton"
+     style={imageStyle} />
+
+<img src="/glass-roof1-after.jpg"
+     alt="Conservatory roof cleaning Northampton"
+     style={imageStyle} />
+
+<img src="/gutter-before.jpg"
+     alt="Blocked gutter before cleaning"
+     style={imageStyle} />
+
+<img src="/gutter-after.jpg"
+     alt="Clean gutter after professional gutter clearing"
+     style={imageStyle} />
+
+<img src="/driveway-before-after.jpg"
+     alt="Driveway pressure washing before and after"
+     style={imageStyle} />
+
+<img src="/patio-pressure-wash.jpg"
+     alt="Patio pressure washing Northampton"
+     style={imageStyle} />
+
+<img src="/commercial-one.jpg"
+     alt="Commercial window cleaning Northampton"
+     style={imageStyle} />
 </div>
       </section>
 
