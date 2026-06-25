@@ -176,7 +176,7 @@ export default function Home() {
       <div style={galleryStyle}>
   <img src="/stock-twobed-house.jpg" style={imageStyle} />
 <img src="/glass-roof1-after.jpg" style={imageStyle} />
-<img src="/gutter-before.jpg" style={imageStyle} />
+<img src="/gutter-before .jpg" style={imageStyle} />
 <img src="/gutter-after.jpg" style={imageStyle} />
 <img src="/pressure-wash.jpg" style={imageStyle} />
 <img src="/commercial-one.jpg" style={imageStyle} />
