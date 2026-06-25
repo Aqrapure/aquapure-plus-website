@@ -182,21 +182,13 @@ export default function Home() {
      alt="Conservatory roof cleaning Northampton"
      style={imageStyle} />
 
-<img src="/gutter-before.jpg"
-     alt="Blocked gutter before cleaning"
-     style={imageStyle} />
+<img src="/gutter-before .jpg" alt="Blocked gutter before cleaning" style={imageStyle} />
 
-<img src="/gutter-after.jpg"
-     alt="Clean gutter after professional gutter clearing"
-     style={imageStyle} />
+<img src="/gutterafter-clean.jpg" alt="Clean gutter after professional gutter cleaning" style={imageStyle} />
 
-<img src="/driveway-before-after.jpg"
-     alt="Driveway pressure washing before and after"
-     style={imageStyle} />
+<img src="/driveway-before-after.jpg" alt="Driveway pressure washing before and after" style={imageStyle} />
 
-<img src="/patio-pressure-wash.jpg"
-     alt="Patio pressure washing Northampton"
-     style={imageStyle} />
+<img src="/Pattio Pressure Wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
 
 <img src="/commercial-one.jpg"
      alt="Commercial window cleaning Northampton"
