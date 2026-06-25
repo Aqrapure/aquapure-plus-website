@@ -174,17 +174,12 @@ export default function Home() {
   </p>
 
       <div style={galleryStyle}>
-  <img src="/house-stock.jpg" alt="Residential window cleaning Northampton" style={imageStyle} />
-
-  <img src="/glass-roof1-after.jpg" alt="Conservatory roof cleaning Northampton" style={imageStyle} />
-
- <img src="/gutter-before .jpg" alt="Gutter cleaning Northampton" style={imageStyle} />
-
-  <img src="/driveway-before-after.jpg" alt="Driveway pressure washing Northampton" style={imageStyle} />
-
-  <img src="/pressure-wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
-
-  <img src="/commercial-one.jpg" alt="Commercial window cleaning Northampton" style={imageStyle} />
+  <img src="/stock-twobed-house.jpg" />
+<img src="/glass-roof1-after.jpg" />
+<img src="/gutter-before.jpg" />
+<img src="/gutter-after.jpg" />
+<img src="/pressure-wash.jpg" />
+<img src="/commercial-one.jpg" />
 </div>
       </section>
 
