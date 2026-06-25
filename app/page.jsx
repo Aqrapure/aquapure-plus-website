@@ -177,7 +177,7 @@ export default function Home() {
   <img src="/stock-twobed-house.jpg" style={imageStyle} />
 <img src="/glass-roof1-after.jpg" style={imageStyle} />
 <img src="/gutter-before .jpg" style={imageStyle} />
-<img src="/gutter-after.jpg" style={imageStyle} />
+<img src="/gutterafter-clean.jpg" style={imageStyle} />
 <img src="/driveway-before-after.jpg" style={imageStyle} />
 <img src="/Pattio Pressure Wash.jpg" style={imageStyle} />
 <img src="/commercial-one.jpg" style={imageStyle} />
