@@ -9,7 +9,7 @@ export default function WindowCleaningPage() {
       <h1>Window Cleaning Northampton</h1>
 
       <p style={{ fontSize: '1.25rem', lineHeight: '1.7', marginBottom: '20px' }}>
-  Reliable regular and one-off window cleaning for homes, offices and commercial premises across Northampton and surrounding villages.
+  Regular reiable window cleaning for homes, offices and commercial premises across Northampton and surrounding villages.
 </p>
  
 
@@ -45,7 +45,7 @@ export default function WindowCleaningPage() {
 
       <h2>What’s Included?</h2>
       <ul>
-        <li>Window glass cleaned</li>
+        <li>Window</li>
         <li>Frames and sills included</li>
         <li>UPVC doors included</li>
         <li>Text reminder sent the day before your scheduled clean</li>
