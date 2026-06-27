@@ -53,7 +53,12 @@ export default function WindowCleaningPage() {
         We use a modern pure water window cleaning system for a streak-free finish without
         the need for harsh chemicals. This allows us to clean safely from the ground in many cases.
       </p>
+<h2>Request a Free Quote</h2>
 
+<p>
+  For regular window cleaning or a one-off clean in Northampton,
+  contact Aquapure Plus today.
+</p>
       <div style={buttonContainer}>
   <a href={`tel:${phoneMark}`} style={buttonStyle}>
     Call Mark
@@ -70,12 +75,7 @@ export default function WindowCleaningPage() {
     </main>
   );
 }
-<h2>Request a Free Quote</h2>
 
-<p>
-  For regular window cleaning or a one-off clean in Northampton,
-  contact Aquapure Plus today.
-</p>
 const buttonStyle = {
  display: 'block',
   flex: 1,
