@@ -70,7 +70,12 @@ export default function WindowCleaningPage() {
     </main>
   );
 }
+<h2>Request a Free Quote</h2>
 
+<p>
+  For regular window cleaning or a one-off clean in Northampton,
+  contact Aquapure Plus today.
+</p>
 const buttonStyle = {
  display: 'block',
   flex: 1,
