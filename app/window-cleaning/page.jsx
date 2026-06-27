@@ -39,6 +39,7 @@ export default function WindowCleaningPage() {
   <li>✓ Pure water window cleaning system</li>
   <li>✓ Frames, sills and UPVC doors included</li>
   <li>✓ Friendly text reminder before every clean</li>
+  <li>✓ One-off cleand welcomed</li>
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
