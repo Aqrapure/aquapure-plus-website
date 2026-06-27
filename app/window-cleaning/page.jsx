@@ -45,7 +45,7 @@ export default function WindowCleaningPage() {
 
       <h2>What’s Included?</h2>
       <ul>
-        <li>Window</li>
+        <li>Windows</li>
         <li>Frames and sills included</li>
         <li>UPVC doors included</li>
         <li>Text reminder sent the day before your scheduled clean</li>
