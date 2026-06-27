@@ -49,16 +49,6 @@ export default function WindowCleaningPage() {
         the need for harsh chemicals. This allows us to clean safely from the ground in many cases.
       </p>
 
-      <h2>What’s Included?</h2>
-      <ul>
-        <li>Windows</li>
-        <li>Frames and sills included</li>
-        <li>UPVC doors included</li>
-        <li>Text reminder sent the day before your scheduled clean</li>
-        <li>Regular 4 or 8 weekly rounds available</li>
-        <li>One-off cleans welcomed</li>
-      </ul>
-
       <h2>Request a Free Quote</h2>
       <p>
         For regular window cleaning or a one-off clean in Northampton, contact Aquapure Plus today.
