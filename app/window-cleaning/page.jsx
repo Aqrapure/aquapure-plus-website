@@ -28,7 +28,7 @@ export default function WindowCleaningPage() {
       <img
         src="/stock-twobed-house.jpg"
         alt="Residential window cleaning Northampton"
-        style={{ width: '100%', maxHeight: '620px', objectFit: 'cover', borderRadius: '14px', margin: '25px 0' }}
+        style={{ width: '100%', maxHeight: '640px', objectFit: 'cover', borderRadius: '14px', margin: '25px 0' }}
       />
 
       <h2>Regular Window Cleaning Service</h2>
