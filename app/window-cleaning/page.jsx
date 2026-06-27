@@ -17,13 +17,18 @@ export default function WindowCleaningPage() {
   Established since 2006, Aquapure Plus provides professional pure water window cleaning with frames, sills and UPVC doors included as standard.
 </p>
 
-<a href={`tel:${phoneMark}`} style={buttonStyle}>Call Mark</a>
-<a
-  href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
-  style={whatsappStyle}
->
-  WhatsApp Quote
-</a>
+<div style={buttonContainer}>
+  <a href={`tel:${phoneMark}`} style={buttonStyle}>
+    Call Mark
+  </a>
+
+  <a
+    href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
+    style={whatsappStyle}
+  >
+    WhatsApp
+  </a>
+</div>
 
       <img
         src="/stock-twobed-house.jpg"
@@ -49,13 +54,18 @@ export default function WindowCleaningPage() {
         the need for harsh chemicals. This allows us to clean safely from the ground in many cases.
       </p>
 
-      <h2>Request a Free Quote</h2>
-      <p>
-        For regular window cleaning or a one-off clean in Northampton, contact Aquapure Plus today.
-      </p>
+      <div style={buttonContainer}>
+  <a href={`tel:${phoneMark}`} style={buttonStyle}>
+    Call Mark
+  </a>
 
-      <a href={`tel:${phoneMark}`} style={buttonStyle}>Call Mark</a>
-      <a
+  <a
+    href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
+    style={whatsappStyle}
+  >
+    WhatsApp
+  </a>
+</div>
         href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
         style={whatsappStyle}
       >
@@ -66,7 +76,8 @@ export default function WindowCleaningPage() {
 }
 
 const buttonStyle = {
-  display: 'inline-block',
+ display: 'block',
+  flex: 1,
   margin: '10px 10px 10px 0',
   padding: '14px 24px',
   borderRadius: '8px',
@@ -75,7 +86,11 @@ const buttonStyle = {
   fontWeight: 'bold',
   textDecoration: 'none',
 };
-
+const buttonContainer = {
+  display: "flex",
+  gap: "15px",
+  margin: "30px 0",
+};
 const whatsappStyle = {
   ...buttonStyle,
   background: '#2bbf4b',
