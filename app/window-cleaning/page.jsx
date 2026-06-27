@@ -44,7 +44,7 @@ export default function WindowCleaningPage() {
   <li>✓ Pure water window cleaning system</li>
   <li>✓ Frames, sills and UPVC doors included</li>
   <li>✓ Friendly text reminder before every clean</li>
-  <li>✓ One-off cleand welcomed</li>
+  <li>✓ One-off cleanS welcomed</li>
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
@@ -68,7 +68,7 @@ export default function WindowCleaningPage() {
     href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
     style={whatsappStyle}
   >
-    WhatsApp
+    WhatsApp Quote
   </a>
 </div>
         
