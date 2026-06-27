@@ -11,8 +11,7 @@ export default function WindowCleaningPage() {
       <p style={{ fontSize: '1.25rem', lineHeight: '1.7', marginBottom: '20px' }}>
   Reliable regular and one-off window cleaning for homes, offices and commercial premises across Northampton and surrounding villages.
 </p>
-  Reliable regular and one-off window cleaning for homes, offices and commercial premises across Northampton and surrounding villages.
-</p>
+ 
 
 <p style={{ fontSize: '1.1rem', lineHeight: '1.7', marginBottom: '25px' }}>
   Established since 2006, Aquapure Plus provides professional pure water window cleaning with frames, sills and UPVC doors included as standard.
