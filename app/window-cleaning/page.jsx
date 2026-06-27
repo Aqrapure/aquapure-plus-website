@@ -31,11 +31,16 @@ export default function WindowCleaningPage() {
         style={{ width: '100%', maxHeight: '660px', objectFit: 'cover', borderRadius: '14px', margin: '25px 0' }}
       />
 
-      <h2>Regular Window Cleaning Service</h2>
-      <p>
-        Our regular window cleaning rounds are available every 4 or 8 weeks, helping keep
-        your windows, frames, sills and UPVC doors looking clean all year round.
-      </p>
+      <h2>Why Choose Aquapure Plus?</h2>
+
+<ul>
+  <li>✓ Established since 2006</li>
+  <li>✓ Reliable 4 or 8 weekly cleaning rounds</li>
+  <li>✓ Pure water window cleaning system</li>
+  <li>✓ Frames, sills and UPVC doors included</li>
+  <li>✓ Friendly text reminder before every clean</li>
+  <li>✓ Free, no-obligation quotations</li>
+</ul>
 
       <h2>Pure Water Cleaning System</h2>
       <p>
