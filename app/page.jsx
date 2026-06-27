@@ -26,7 +26,7 @@ export default function Home() {
         
         <h2 style={{
   fontSize: '3.2rem',
-  marginBottom: '15px',
+  marginBottom: '10px',
   color: '#0067d8',
   maxWidth: '1200px',
   margin: '0 auto 15px auto'
@@ -219,7 +219,7 @@ export default function Home() {
 
       <section style={{ ...sectionStyle, background: '#0b2347', color: 'white' }}>
         <h2 style={{ color: 'white' }}>Request a Free Quote</h2>
-        <p style={{ marginBottom: "25px", lineHeight: "1.6" }}>
+        <p style={{ marginBottom: "20px", lineHeight: "1.6" }}>
   Fully insured local window cleaners serving Northampton and surrounding villages.
   <br />
   Free quotations with no pressure and no hidden costs.
