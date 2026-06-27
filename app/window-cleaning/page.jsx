@@ -8,7 +8,9 @@ export default function WindowCleaningPage() {
     <main style={{ padding: '40px 25px', maxWidth: '1100px', margin: '0 auto' }}>
       <h1>Window Cleaning Northampton</h1>
 
-      <<p style={{ fontSize: '1.25rem', lineHeight: '1.7', marginBottom: '20px' }}>
+      <p style={{ fontSize: '1.25rem', lineHeight: '1.7', marginBottom: '20px' }}>
+  Reliable regular and one-off window cleaning for homes, offices and commercial premises across Northampton and surrounding villages.
+</p>
   Reliable regular and one-off window cleaning for homes, offices and commercial premises across Northampton and surrounding villages.
 </p>
 
