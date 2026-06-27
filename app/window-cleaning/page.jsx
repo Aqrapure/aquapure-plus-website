@@ -66,11 +66,7 @@ export default function WindowCleaningPage() {
     WhatsApp
   </a>
 </div>
-        href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
-        style={whatsappStyle}
-      >
-        WhatsApp Quote
-      </a>
+        
     </main>
   );
 }
