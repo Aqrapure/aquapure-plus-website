@@ -41,7 +41,7 @@ export default function GutterCleaningPage() {
       </div>
 
       <img
-        src="/gutter-before.jpg"
+        src="/gutter-before-clean.jpg"
         alt="Blocked gutters before cleaning"
         style={imageStyle}
       />
@@ -63,7 +63,7 @@ export default function GutterCleaningPage() {
         <li>✓ Free, no-obligation quotations</li>
       </ul>
 
-      <h2>Our Gutter Cleaning Services</h2>
+      <h2>Our Gutter Cleaning Options</h2>
 
       <p>
         Every property is different, so we offer three gutter cleaning
