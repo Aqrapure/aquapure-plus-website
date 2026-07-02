@@ -30,16 +30,24 @@ export default function ConservatoryCleaningPage() {
       </div>
 
       <img
-        src="/conservatory-roof-before.jpg"
-        alt="Polycarbonate conservatory roof before cleaning"
-        style={{
-          width: '100%',
-          maxHeight: '620px',
-          objectFit: 'cover',
-          borderRadius: '14px',
-          margin: '25px 0'
-        }}
-      />
+  src="/conservatory-roof-before.JPG"
+  alt="Conservatory roof before cleaning"
+  style={{
+    width: "100%",
+    borderRadius: "14px",
+    margin: "25px 0"
+  }}
+/>
+
+<img
+  src="/conservatory-roof-after.JPG"
+  alt="Conservatory roof after cleaning"
+  style={{
+    width: "100%",
+    borderRadius: "14px",
+    margin: "25px 0"
+  }}
+/>
 
       <h2>Why Choose Aquapure Plus?</h2>
 
