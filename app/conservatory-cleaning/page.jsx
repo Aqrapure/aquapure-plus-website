@@ -53,7 +53,7 @@ export default function ConservatoryCleaningPage() {
 
       <ul>
         <li>✓ Established since 2006</li>
-        <li>✓ Polycarbonate and glass roof cleaning</li>
+        <li>✓ All types of conservatory roof cleaned</li>
         <li>✓ Frames, roof bars and panels cleaned</li>
         <li>✓ Careful exterior cleaning by a local team</li>
         <li>✓ Free, no-obligation quotations</li>
