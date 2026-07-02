@@ -30,7 +30,7 @@ export default function ConservatoryCleaningPage() {
       </div>
 
       <img
-        src="/conservatory-cleaning.jpg"
+        src="/conservatory-cleaning-before.jpg"
         alt="Polycarbonate conservatory roof before cleaning"
         style={{
           width: '100%',
