@@ -15,9 +15,11 @@ export default function GutterCleaningPage() {
 
       <p>
         Whether your gutters are overflowing, blocked with moss and leaves,
-        or simply looking tired on the outside, Aquapure Plus offers a
-        complete gutter cleaning service to keep your property looking its
-        best and protecting it from water damage.
+        or youur fascias and soffits have become dirty and green.
+        Aquapure Plus offers a professional gutter clearing service to keep
+        your property protected from possible water damage. 
+        Our complete service not only help to your property protected but also 
+        looking its very best.
       </p>
 
       <div style={buttonContainer}>
