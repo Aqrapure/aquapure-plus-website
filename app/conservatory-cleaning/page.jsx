@@ -13,7 +13,7 @@ export default function ConservatoryCleaningPage() {
       </p>
 
       <p style={{ fontSize: '1.1rem', lineHeight: '1.7', marginBottom: '25px' }}>
-        We regularly clean polycarbonate and glass conservatory roofs, removing dirt, algae and green staining to restore a brighter, cleaner appearance.
+        We professionally clean conservatory roofs, removing dirt, algae and surface grime to restore a brighter, cleaner appearance.
       </p>
 
       <div style={buttonContainer}>
@@ -59,17 +59,26 @@ export default function ConservatoryCleaningPage() {
         <li>✓ Free, no-obligation quotations</li>
       </ul>
 
-      <h2>Polycarbonate Conservatory Roof Cleaning</h2>
+      <h2>Conservatory Roof Cleaning</h2>
 
-      <p>
-        Most conservatory roofs we clean are polycarbonate roofs, which often become green or dull over time. Regular cleaning removes algae, dirt and weather staining to restore a brighter appearance.
-      </p>
+<p>
+  Over time conservatory roofs collect algae, moss, dirt and atmospheric pollution,
+  leaving them looking tired and reducing the amount of natural light entering your home.
+</p>
 
-      <h2>Glass Conservatory Roof Cleaning</h2>
+<p>
+  We carefully clean conservatory roofs, roof bars and frames using purified water
+  and specialist equipment to achieve excellent results without harsh chemicals.
+</p>
 
-      <p>
-        We also clean glass conservatory roofs, frames and exterior panels using purified water for a spotless finish.
-      </p>
+<h2>Important Information</h2>
+
+<p>
+  Most conservatory roofs respond extremely well to professional cleaning. However,
+  older polycarbonate roofs can become permanently stained or discoloured due to UV
+  exposure and age. Cleaning removes dirt, algae and organic growth, but permanent
+  staining cannot be removed.
+</p>
 
       <h2>Request a Free Quote</h2>
 
