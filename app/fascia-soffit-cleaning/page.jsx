@@ -6,14 +6,9 @@ export default function GutterCleaningPage() {
   return (
     <main style={container}>
 
-      <h1>Fascia & Soffit Cleaning Northampton</h1>
+     <h1>Fascia & Soffit Cleaning Northampton</h1>
 
-      <p>
-        Professional fascia, soffit and exterior gutter cleaning for homes 
-        across Northampton and surrounding villages
-      </p>
-
-      <<p>
+<p>
   Professional fascia, soffit and exterior gutter cleaning for homes across Northampton and surrounding villages.
 </p>
 
@@ -28,6 +23,8 @@ export default function GutterCleaningPage() {
 <p>
   Whether you need your fascias and soffits cleaned on their own or as part of a complete exterior clean, we're happy to help.
 </p>
+
+<div style={buttonContainer}>
 
       <div style={buttonContainer}>
 
