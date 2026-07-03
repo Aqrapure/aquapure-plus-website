@@ -15,8 +15,13 @@ export default function GutterCleaningPage() {
 
       <p>
         Over time, fascias, soffits and exterior guttering collect traffic film, algae, 
-        cobwebs and general dirt, leaving the outside of your home looking tired. 
-        Aquapure Plus carefully cleans exterior uPVC to restore a brighter, cleaner appearance.
+        cobwebs and general dirt, leaving the outside of your home looking tired.
+
+        We carefully clean exterior uPVC using purified water and professional equipment 
+        to restore a brighter, cleaner appearance without harsh chemicals.
+
+        Whether you need your fascias and soffits cleaned on their own or as part of 
+        a complete exterior clean, we're happy to help.
       </p>
 
       <div style={buttonContainer}>
