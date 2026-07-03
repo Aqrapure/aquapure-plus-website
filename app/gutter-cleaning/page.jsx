@@ -18,8 +18,8 @@ export default function GutterCleaningPage() {
         or youur fascias and soffits have become dirty and green.
         Aquapure Plus offers a professional gutter clearing service to keep
         your property protected from possible water damage. 
-        Our complete service not only help to your property protected, but also 
-        looking its very best.
+        Our complete service not only help protect your property from water damage, but also 
+        keeps it looking its very best.
       </p>
 
       <div style={buttonContainer}>
