@@ -83,8 +83,8 @@ export default function GutterCleaningPage() {
 
       <p>
         If your gutters, fascias and soffits are dirty, green or covered in
-        traffic film, we can safely clean the exterior to restore a
-        brighter appearance using purified water.
+        traffic film, we can safely clean the exterior to restore a fresh
+        brighter appearance.
       </p>
 
       <h3>Complete Gutter Service</h3>
