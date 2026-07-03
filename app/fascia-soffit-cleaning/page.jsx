@@ -14,7 +14,7 @@ export default function GutterCleaningPage() {
       </p>
 
       <p>
-        WOver time, fascias, soffits and exterior guttering collect traffic film, algae, 
+        Over time, fascias, soffits and exterior guttering collect traffic film, algae, 
         cobwebs and general dirt, leaving the outside of your home looking tired. 
         Aquapure Plus carefully cleans exterior uPVC to restore a brighter, cleaner appearance.
       </p>
