@@ -44,27 +44,21 @@ export default function GutterCleaningPage() {
 
       </div>
 
-      <img
-        src="/gutter-before-clean.jpg"
-        alt="Blocked gutters before cleaning"
-        style={imageStyle}
-      />
+     <img
+  src="/exterior-fascia-soffit-gutter-clean.JPG"
+  alt="Fascia and soffit cleaning Northampton"
+  style={imageStyle}
+/>
 
-      <img
-        src="/gutterafter-clean.jpg"
-        alt="Clean gutters after cleaning"
-        style={imageStyle}
-      />
+<h2>Why Choose Aquapure Plus?</h2>
 
-      <h2>Why Choose Aquapure Plus?</h2>
-
-      <ul>
-        ✓ Established since 2006
-✓ Fascias, soffits and exterior gutters cleaned
-✓ Safe for uPVC with no harsh chemicals
-✓ Local, reliable family business
-✓ Free, no-obligation quotations
-      </ul>
+<ul>
+  <li>✓ Established since 2006</li>
+  <li>✓ Fascias, soffits and exterior gutters cleaned</li>
+  <li>✓ Safe for uPVC with no harsh chemicals</li>
+  <li>✓ Local, reliable family business</li>
+  <li>✓ Free, no-obligation quotations</li>
+</ul>
 
       <h2>Our Gutter Cleaning Options</h2>
 
