@@ -47,7 +47,7 @@ export default function GutterCleaningPage() {
       />
 
       <img
-        src="/gutter-after-clean.jpg"
+        src="/gutterafter-clean.jpg"
         alt="Clean gutters after cleaning"
         style={imageStyle}
       />
