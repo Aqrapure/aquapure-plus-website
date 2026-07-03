@@ -60,13 +60,9 @@ export default function GutterCleaningPage() {
 
       <ul>
         ✓ Established since 2006
-
 ✓ Fascias, soffits and exterior gutters cleaned
-
 ✓ Safe for uPVC with no harsh chemicals
-
 ✓ Local, reliable family business
-
 ✓ Free, no-obligation quotations
       </ul>
 
