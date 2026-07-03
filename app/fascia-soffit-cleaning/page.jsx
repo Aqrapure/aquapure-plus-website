@@ -13,16 +13,21 @@ export default function GutterCleaningPage() {
         across Northampton and surrounding villages
       </p>
 
-      <p>
-        Over time, fascias, soffits and exterior guttering collect traffic film, algae, 
-        cobwebs and general dirt, leaving the outside of your home looking tired.
+      <<p>
+  Professional fascia, soffit and exterior gutter cleaning for homes across Northampton and surrounding villages.
+</p>
 
-        We carefully clean exterior uPVC using purified water and professional equipment 
-        to restore a brighter, cleaner appearance without harsh chemicals.
+<p>
+  Over time, fascias, soffits and exterior guttering collect traffic film, algae, cobwebs and general dirt, leaving the outside of your home looking tired.
+</p>
 
-        Whether you need your fascias and soffits cleaned on their own or as part of 
-        a complete exterior clean, we're happy to help.
-      </p>
+<p>
+  We carefully clean exterior uPVC using purified water and professional equipment to restore a brighter, cleaner appearance without harsh chemicals.
+</p>
+
+<p>
+  Whether you need your fascias and soffits cleaned on their own or as part of a complete exterior clean, we're happy to help.
+</p>
 
       <div style={buttonContainer}>
 
