@@ -60,37 +60,53 @@ export default function GutterCleaningPage() {
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
-      <h2>Our Gutter Cleaning Options</h2>
+      <h2>Our Fascia & Soffit Cleaning Services</h2>
 
-      <p>
-        Every property is different, so we offer three gutter cleaning
-        services depending on what you need.
-      </p>
+<p>
+    Every property is different, so we offer exterior cleaning
+    services to suit your home and your budget.
+</p>
 
-      <h3>Internal Gutter Clearing</h3>
+<h3>Fascia Cleaning</h3>
 
-      <p>
-        Using our professional gutter vacuum system we safely remove moss,
-        leaves and debris from inside your gutters without the need for
-        ladders in most situations. We also check and flush downpipes where
-        required to ensure rainwater flows away properly.
-      </p>
+<p>
+    Fascias are the vertical boards that run along your roofline
+    behind the gutters.
+</p>
 
-      <h3>Exterior Gutter, Fascia & Soffit Cleaning</h3>
+<p>
+    Over time they become stained with algae, traffic film and
+    general dirt, making your home look older than it really is.
+</p>
 
-      <p>
-        If your gutters, fascias and soffits are dirty, green or covered in
-        traffic film, we can safely clean the exterior to restore a fresh
-        brighter appearance.
-      </p>
+<p>
+    We carefully restore fascias to a bright, clean finish using
+    professional equipment that is safe for uPVC.
+</p>
 
-      <h3>Complete Gutter Service</h3>
+<h3>Soffit Cleaning</h3>
 
-      <p>
-        Many customers choose to have everything completed during one visit —
-        gutters cleared internally, downpipes checked, and the exterior
-        guttering, fascias and soffits professionally cleaned.
-      </p>
+<p>
+    Soffits are the underside of your roof overhang and are often
+    overlooked when cleaning a property.
+</p>
+
+<p>
+    We remove cobwebs, algae and built-up dirt to leave them looking
+    fresh and clean again.
+</p>
+
+<h3>Complete Exterior uPVC Cleaning</h3>
+
+<p>
+    For the best overall appearance, many customers choose to have
+    their fascias, soffits and gutter fronts cleaned together.
+</p>
+
+<p>
+    This gives your home a cleaner, brighter finish and instantly
+    improves its kerb appeal.
+</p>
 
       <h2>How Often Should Gutters Be Cleared?</h2>
 
