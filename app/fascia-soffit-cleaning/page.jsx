@@ -1,12 +1,12 @@
 export default function GutterCleaningPage() {
   const phoneMark = "07849459812"; // Replace with Mark's number
   const whatsappMessage =
-    "Hi Mark, I'd like a quote for fascia &soffits cleaning.";
+    "Hi Mark, I'd like a quote for fascia & soffits cleaning.";
 
   return (
     <main style={container}>
 
-      <h1>Fascia & Soffits Cleaning Northampton</h1>
+      <h1>Fascia & Soffit Cleaning Northampton</h1>
 
       <p>
         Professional fascia & soffits cleaning for homes across Northampton and
@@ -14,12 +14,9 @@ export default function GutterCleaningPage() {
       </p>
 
       <p>
-        Whether your gutters are overflowing, blocked with moss and leaves,
-        or youur fascias and soffits have become dirty and green.
-        Aquapure Plus offers a professional gutter clearing service to keep
-        your property protected from possible water damage. 
-        Our complete service not only help protect your property from water damage, but also 
-        keeps it looking its very best.
+        WOver time, fascias, soffits and exterior guttering collect traffic film, algae, 
+        cobwebs and general dirt, leaving the outside of your home looking tired. 
+        Aquapure Plus carefully cleans exterior uPVC to restore a brighter, cleaner appearance.
       </p>
 
       <div style={buttonContainer}>
