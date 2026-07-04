@@ -60,35 +60,49 @@ export default function GutterCleaningPage() {
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
-      <h2>Our Fascia & Soffit Cleaning Services</h2>
+     <h2>Our Exterior Cleaning Services</h2>
 
 <p>
-    Every property is different, so we offer exterior cleaning
-    services to suit your home and your budget.
+    We offer three exterior cleaning options depending on what
+    your property needs.
 </p>
 
-<h3>Fascia Cleaning</h3>
+<h3>Exterior Gutter, Fascia & Soffit Cleaning</h3>
 
 <p>
-    Fascias are the vertical boards that run along your roofline
-    behind the gutters.
-</p>
-
-<p>
-    Over time they become stained with algae, traffic film and
-    general dirt, making your home look older than it really is.
+    Over time, fascias, soffits and exterior guttering become
+    dirty with traffic film, algae, cobwebs and general grime.
 </p>
 
 <p>
-    We carefully restore fascias to a bright, clean finish using
-    professional equipment that is safe for uPVC.
+    We professionally clean all exterior uPVC to remove built-up
+    dirt and improve the overall appearance of your home.
 </p>
 
-<h3>Soffit Cleaning</h3>
+<h3>Internal Gutter Clearing</h3>
 
 <p>
-    Soffits are the underside of your roof overhang and are often
-    overlooked when cleaning a property.
+    Using our professional gutter vacuum system, we safely remove
+    moss, leaves and debris from inside your gutters without the
+    need for ladders in most situations.
+</p>
+
+<p>
+    We also check and flush downpipes where required to ensure
+    rainwater flows away properly.
+</p>
+
+<h3>Complete Gutter & Exterior Cleaning</h3>
+
+<p>
+    Our most popular service combines internal gutter clearing
+    with exterior gutter, fascia and soffit cleaning in a single
+    visit.
+</p>
+
+<p>
+    This leaves both the inside and outside of your guttering
+    clean and your property looking its best.
 </p>
 
 <p>
