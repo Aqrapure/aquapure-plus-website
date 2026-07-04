@@ -107,20 +107,28 @@ export default function GutterCleaningPage() {
 
 
 
-      <h2>How Often Should Gutters Be Cleared?</h2>
+      <h2>How Often Should Fascias & Soffits Be Cleaned?</h2>
 
-      <p>
-        Most homes benefit from gutter clearing every 12 months. Properties
-        surrounded by trees may need cleaning more frequently to prevent
-        blockages, overflowing gutters and costly water damage.
-      </p>
+<p>
+    Most homes benefit from exterior uPVC cleaning every
+    1–2 years, depending on the property's location and
+    surrounding environment.
+</p>
 
-      <h2>Request a Free Quote</h2>
+<p>
+    Homes near busy roads or surrounded by trees may need
+    cleaning more frequently to keep fascias, soffits and
+    guttering looking their best.
+</p>
 
-      <p>
-        Contact Aquapure Plus today for a free gutter cleaning quotation in
-        Northampton and surrounding villages.
-      </p>
+     <h2>Request a Free Quote</h2>
+
+<p>
+    Contact Aquapure Plus today for a free,
+    no-obligation quotation for fascia,
+    soffit and exterior gutter cleaning
+    in Northampton and surrounding villages.
+</p>
 
       <div style={buttonContainer}>
 
