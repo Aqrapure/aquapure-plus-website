@@ -105,22 +105,7 @@ export default function GutterCleaningPage() {
     clean and your property looking its best.
 </p>
 
-<p>
-    We remove cobwebs, algae and built-up dirt to leave them looking
-    fresh and clean again.
-</p>
 
-<h3>Complete Exterior uPVC Cleaning</h3>
-
-<p>
-    For the best overall appearance, many customers choose to have
-    their fascias, soffits and gutter fronts cleaned together.
-</p>
-
-<p>
-    This gives your home a cleaner, brighter finish and instantly
-    improves its kerb appeal.
-</p>
 
       <h2>How Often Should Gutters Be Cleared?</h2>
 
