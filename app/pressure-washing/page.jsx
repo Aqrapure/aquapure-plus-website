@@ -61,37 +61,24 @@ export default function PressureWashingPage() {
                 and more welcoming.
             </p>
 
-            <p>
-                As this is a newer service for Aquapure Plus, we are happy to
-                view each job first and advise whether pressure washing is
-                suitable for the surface.
-            </p>
+            <h2>Our Pressure Washing Services</h2>
 
-            <img
-                src="/pattio-pressure-wash.jpg"
-                alt="Patio pressure washing Northampton"
-                style={imageStyle}
-            />
+<p>
+    We offer pressure washing for patios, driveways
+    and outdoor areas.
+</p>
 
-            <h2>Our Pressure Washing Service</h2>
+<p>
+    This service helps remove built-up dirt, algae,
+    moss and surface grime to improve the appearance
+    of your property.
+</p>
 
-            <p>
-                We keep things simple and only recommend pressure washing where
-                we feel it is suitable for the job.
-            </p>
-
-            <p>
-                This service is ideal for customers who already use us for
-                window cleaning, gutter cleaning, conservatory roof cleaning or
-                fascia and soffit cleaning and would like outdoor areas cleaned
-                at the same time.
-            </p>
-
-            <img
-                src="/pressure-wash.jpg"
-                alt="Pressure washing outdoor surface"
-                style={imageStyle}
-            />
+<img
+    src="/pressure-wash.jpg"
+    alt="Pressure washing patio"
+    style={imageStyle}
+/>
 
             <h2>Request a Free Quote</h2>
 
