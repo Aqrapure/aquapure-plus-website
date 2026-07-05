@@ -144,6 +144,26 @@ export default function Home() {
 
 </div>
       </section>
+      <section style={sectionStyle}>
+  <h2>Our Commitment</h2>
+
+  <p style={{ maxWidth: "800px", margin: "0 auto 25px", textAlign: "center", lineHeight: "1.7" }}>
+    Since 2006, Aquapure Plus has been committed to providing professional
+    exterior cleaning with care, attention to detail and respect for every
+    customer's property.
+  </p>
+
+  <p style={{ maxWidth: "800px", margin: "0 auto 25px", textAlign: "center", lineHeight: "1.7" }}>
+    We don't believe in making promises we can't keep.
+    We believe in doing the job properly and leaving every customer completely
+    satisfied.
+  </p>
+
+  <p style={{ maxWidth: "800px", margin: "0 auto", textAlign: "center", lineHeight: "1.7" }}>
+    We want to leave you happy to tell a friend.
+    If you're not happy, tell us and we'll do everything we can to make it right.
+  </p>
+</section>
 <section style={sectionStyle}>
   <h2>What Our Customers Say</h2>
 
