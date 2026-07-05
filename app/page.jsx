@@ -145,7 +145,9 @@ export default function Home() {
 </div>
       </section>
       <section style={sectionStyle}>
-  <h2>Our Commitment</h2>
+ <h2 style={{ textAlign: "center" }}>
+  Our Commitment
+</h2>
 
   <p style={{ maxWidth: "800px", margin: "0 auto 25px", textAlign: "center", lineHeight: "1.7" }}>
     Since 2006, Aquapure Plus has been committed to providing professional
