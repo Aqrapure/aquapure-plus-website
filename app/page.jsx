@@ -196,25 +196,41 @@ export default function Home() {
   </p>
 
       <div style={galleryStyle}>
-  <img src="/stock-twobed-house.jpg"
-     alt="Residential window cleaning Northampton"
-     style={imageStyle} />
+ <img
+  src="/stock-twobed-house.jpg"
+  alt="Residential window cleaning Northampton"
+  style={imageStyle}
+/>
 
-<img src="/glass-roof1-after.jpg"
-     alt="Conservatory roof cleaning Northampton"
-     style={imageStyle} />
+<img
+  src="/exterior-fascia-soffit-gutter-clean.JPG"
+  alt="Fascia and exterior gutter cleaning Northampton"
+  style={imageStyle}
+/>
 
-<img src="/new-gutter-before.jpg" alt="Blocked gutter before clearing" style={imageStyle} />
+<img
+  src="/new-gutter-before.jpg"
+  alt="Blocked gutter before professional clearing"
+  style={imageStyle}
+/>
 
-<img src="/new-gutter-after.jpg" alt="Gutter after professional clearing" style={imageStyle} />
-        
-<img src="/driveway-before-after.jpg" alt="Driveway pressure washing before and after" style={imageStyle} />
+<img
+  src="/new-gutter-after.jpg"
+  alt="Gutter after professional clearing"
+  style={imageStyle}
+/>
 
-<img src="/patio-pressure-wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
+<img
+  src="/driveway-before-after.jpg"
+  alt="Driveway pressure washing before and after"
+  style={imageStyle}
+/>
 
-<img src="/commercial-one.jpg"
-     alt="Commercial window cleaning Northampton"
-     style={imageStyle} />
+<img
+  src="/patio-pressure-wash.jpg"
+  alt="Patio pressure washing Northampton"
+  style={imageStyle}
+/>
 </div>
       </section>
 
