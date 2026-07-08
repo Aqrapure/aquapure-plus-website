@@ -210,7 +210,7 @@ export default function Home() {
         
 <img src="/driveway-before-after.jpg" alt="Driveway pressure washing before and after" style={imageStyle} />
 
-<img src="/Pattio-Pressure-Wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
+<img src="/patio-pressure-wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
 
 <img src="/commercial-one.jpg"
      alt="Commercial window cleaning Northampton"
