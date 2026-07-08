@@ -206,8 +206,8 @@ export default function Home() {
 
 <img src="/new-gutter-before.jpg" alt="Blocked gutter before clearing" style={imageStyle} />
 
-<img src="/gutterafter-clean.jpg" alt="Clean gutter after professional gutter cleaning" style={imageStyle} />
-
+<img src="/new-gutter-after.jpg" alt="Gutter after professional clearing" style={imageStyle} />
+        
 <img src="/driveway-before-after.jpg" alt="Driveway pressure washing before and after" style={imageStyle} />
 
 <img src="/Pattio Pressure Wash.jpg" alt="Patio pressure washing Northampton" style={imageStyle} />
