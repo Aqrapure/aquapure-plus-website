@@ -17,7 +17,7 @@ export default function Home() {
   maxWidth: '550px',
   width: '95%',
   display: 'block',
-  margin: '0 auto 20px auto'
+  margin: '0 auto 10px auto'
 }}
 />
 
