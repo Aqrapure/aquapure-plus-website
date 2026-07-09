@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <main>
-      <section style={{ padding: '10px', textAlign: 'center' }}>
+      <section style={{ padding: '05px', textAlign: 'center' }}>
        <img
  src="/AQUAPURE%20LOGO.png"
   alt="Aquapure Plus"
