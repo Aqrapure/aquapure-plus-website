@@ -151,4 +151,3 @@ const imageStyle = {
   borderRadius: "14px",
   margin: "30px 0 45px",
 };
-    
