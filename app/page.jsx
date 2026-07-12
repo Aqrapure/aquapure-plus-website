@@ -220,6 +220,12 @@ export default function Home() {
   style={imageStyle}
 />
 
+ <img
+  src="/conservatory-roof-before.jpg"
+  alt="Gutter after professional clearing"
+  style={imageStyle}
+/>   
+        
 <img
   src="/driveway-before-after.jpg"
   alt="Driveway pressure washing before and after"
