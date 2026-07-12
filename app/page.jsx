@@ -221,8 +221,14 @@ export default function Home() {
 />
 
  <img
-  src="/conservetory-roof-before.jpg"
-  alt="conservetory roof before professional clearing"
+  src="/conservatory-roof-before.jpg"
+  alt="conservatory roof before professional clearing"
+  style={imageStyle}
+/>   
+
+ <img
+  src="/conservatory-roof-after.jpg"
+  alt="conservatory roof after professional clearing"
   style={imageStyle}
 />   
         
