@@ -222,7 +222,7 @@ export default function Home() {
 
  <img
   src="/conservatory-roof-before.jpg"
-  alt="Gutter after professional clearing"
+  alt="conservatory roof before professional clearing"
   style={imageStyle}
 />   
         
