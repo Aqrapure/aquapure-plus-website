@@ -190,7 +190,7 @@ export default function Home() {
   </div>
 </section>
       <section style={sectionStyle}>
-  <h2>Recent Work Across Northampton</h2>
+  <h2>Recent Results Across Northampton</h2>
   <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
     A selection of window cleaning, gutter clearing, conservatory cleaning and exterior cleaning work carried out locally.
   </p>
