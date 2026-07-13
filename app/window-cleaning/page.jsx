@@ -85,8 +85,7 @@ export default function WindowCleaningPage() {
       <h2>Request a Free Quote</h2>
 
       <p>
-        Contact Aquapure Plus today for your free no-obligation quotation in
-        Northampton and surrounding villages.
+        Contact Aquapure Plus today for your free no-obligation quotation.
       </p>
 
       <div style={buttonContainer}>
