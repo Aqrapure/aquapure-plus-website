@@ -8,19 +8,15 @@ export default function GutterCleaningPage() {
 
       <h1>Gutter Cleaning Northampton</h1>
 
-      <p>
-        Professional gutter cleaning for homes across Northampton and
-        surrounding villages.
-      </p>
+     <p>
+  Professional gutter clearing for homes and suitable commercial properties
+  across Northampton and surrounding villages.
+</p>
 
-      <p>
-        Whether your gutters are overflowing, blocked with moss and leaves,
-        or youur fascias and soffits have become dirty and green.
-        Aquapure Plus offers a professional gutter clearing service to keep
-        your property protected from possible water damage. 
-        Our complete service not only help protect your property from water damage, but also 
-        keeps it looking its very best.
-      </p>
+<p>
+  Aquapure Plus provides professional gutter clearing to help protect
+  properties from overflowing rainwater and possible water damage.
+</p>
 
       <div style={buttonContainer}>
 
