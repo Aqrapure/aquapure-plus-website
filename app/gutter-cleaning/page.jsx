@@ -95,9 +95,10 @@ export default function GutterCleaningPage() {
       <h2>How Often Should Gutters Be Cleared?</h2>
 
       <p>
-  We recommend gutter clearing every 12 months for most properties. Properties
-  surrounded by trees may require more frequent visits to help prevent
-  blockages, overflowing gutters and possible water damage.
+  It is recommended that gutters are cleared every 12 months for most
+  properties. Properties surrounded by trees may require more frequent
+  visits to help prevent blockages, overflowing gutters and possible
+  water damage.
 </p>
 
       <h2>Request a Free Quote</h2>
