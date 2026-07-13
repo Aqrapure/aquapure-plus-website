@@ -69,7 +69,7 @@ export default function WindowCleaningPage() {
         reminder sent the day before we are due.
       </p>
 
-      <h2>Residential & Commercial Window Cleaning</h2>
+      <h2>Residential & Commercial Properties</h2>
 
       <p>
         We provide window cleaning for houses, offices and suitable commercial
