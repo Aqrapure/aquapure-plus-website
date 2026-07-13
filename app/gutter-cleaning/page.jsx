@@ -50,14 +50,16 @@ export default function GutterCleaningPage() {
 
       <h2>Why Choose Aquapure Plus?</h2>
 
-      <ul>
-        <li>✓ Established since 2006</li>
-        <li>✓ Safe gutter vacuum cleaning from the ground</li>
-        <li>✓ Ladders used where access requires</li>
-        <li>✓ Downpipes checked and flushed where needed</li>
-        <li>✓ Exterior gutter, fascia and soffit cleaning available</li>
-        <li>✓ Free, no-obligation quotations</li>
-      </ul>
+     <ul>
+  <li>✓ Established since 2006</li>
+  <li>✓ High-powered commercial gutter vacuum system</li>
+  <li>✓ Gutter clearing carried out safely from the ground</li>
+  <li>✓ Ladders used where access requires</li>
+  <li>✓ Downpipes checked and flushed where needed</li>
+  <li>✓ Exterior gutter, fascia and soffit cleaning available</li>
+  <li>✓ Residential and suitable commercial properties</li>
+  <li>✓ Free, no-obligation quotations</li>
+</ul>
 
       <h2>Our Gutter Cleaning Options</h2>
 
@@ -69,11 +71,10 @@ export default function GutterCleaningPage() {
       <h3>Internal Gutter Clearing</h3>
 
       <p>
-        Using our professional gutter vacuum system we safely remove moss,
-        leaves and debris from inside your gutters without the need for
-        ladders in most situations. We also check and flush downpipes where
-        required to ensure rainwater flows away properly.
-      </p>
+  Using our high-powered commercial gutter vacuum system, we safely remove
+  moss, leaves and debris from inside your gutters. Ladders are used where
+  access requires, and downpipes are checked and flushed where needed.
+</p>
 
       <h3>Exterior Gutter, Fascia & Soffit Cleaning</h3>
 
@@ -94,17 +95,16 @@ export default function GutterCleaningPage() {
       <h2>How Often Should Gutters Be Cleared?</h2>
 
       <p>
-        Most homes benefit from gutter clearing every 12 months. Properties
-        surrounded by trees may need cleaning more frequently to prevent
-        blockages, overflowing gutters and costly water damage.
-      </p>
+  We recommend gutter clearing every 12 months for most properties. Properties
+  surrounded by trees may require more frequent visits to help prevent
+  blockages, overflowing gutters and possible water damage.
+</p>
 
       <h2>Request a Free Quote</h2>
 
       <p>
-        Contact Aquapure Plus today for a free gutter cleaning quotation in
-        Northampton and surrounding villages.
-      </p>
+  Contact Aquapure Plus today for your free, no-obligation quotation.
+</p>
 
       <div style={buttonContainer}>
 
