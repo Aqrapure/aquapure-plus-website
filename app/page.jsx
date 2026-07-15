@@ -94,7 +94,7 @@ export default function Home() {
 
   <div style={cardStyle}>
     <strong>Regular Reliable 4 or 8 Weekly Service Rounds</strong>
-    <p>Scheduled window cleaning available on our regular 4 or 8 weekly rounds.</p>
+    <p> <p>Reliable window cleaning on our regular 4 or 8 weekly service rounds.</p> 
   </div>
 
   <div style={cardStyle}>
