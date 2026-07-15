@@ -149,17 +149,13 @@ export default function Home() {
   Our Commitment
 </h2>
 
-  <p style={{ maxWidth: "800px", margin: "0 auto 25px", textAlign: "center", lineHeight: "1.7" }}>
-    Since 2006, Aquapure Plus has been committed to providing professional
-    exterior cleaning with care, attention to detail and respect for every
-    customer's property.
-  </p>
+  <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
+  Since 2006, Aquapure Plus has been providing reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with a friendly, professional approach.
+</p>
 
-  <p style={{ maxWidth: "800px", margin: "0 auto 25px", textAlign: "center", lineHeight: "1.7" }}>
-    We don't believe in making promises we can't keep.
-    We believe in doing the job properly and leaving every customer completely
-    satisfied.
-  </p>
+<p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
+  We believe in turning up when we say we will, doing the job properly and treating every customer's property with care and respect.
+</p>
 
   <p style={{ maxWidth: "800px", margin: "0 auto", textAlign: "center", lineHeight: "1.7" }}>
     We want to leave you happy to tell a friend.
