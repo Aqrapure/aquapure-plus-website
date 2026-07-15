@@ -93,9 +93,9 @@ export default function Home() {
 <div style={gridStyle}>
 
   <div style={cardStyle}>
-    <strong>Regular Reliable 4 or 8 Weekly Service Rounds</strong>
-    <p> <p>Reliable window cleaning on our regular 4 or 8 weekly service rounds.</p> 
-  </div>
+  <strong>Regular Reliable 4 or 8 Weekly Service Rounds</strong>
+  <p>Reliable window cleaning on our regular 4 or 8 weekly service rounds.</p>
+</div>
 
   <div style={cardStyle}>
     <strong>Text Reminder Before Every Visit</strong>
