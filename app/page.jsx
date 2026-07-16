@@ -87,7 +87,7 @@ export default function Home() {
       <section style={sectionStyle}>
         <h2>Why Choose Aquapure Plus?</h2>
         <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
-  Trusted window cleaning and exterior cleaning services across Northampton since 2006.
+ Trusted Window Cleaners Serving Northampton for Over 15 Years.
 </p>
 
 <div style={gridStyle}>
