@@ -31,7 +31,7 @@ export default function Home() {
   maxWidth: '1200px',
   margin: '0 auto 15px auto'
 }}>
-  Trusted Window Cleaners Serving Northampton for Over 15 Years
+  Trusted Window Cleaners Serving Northampton
 </h2>
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
   Professional window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and the surrounding villages for over 15 years.
@@ -87,7 +87,7 @@ export default function Home() {
       <section style={sectionStyle}>
         <h2>Why Choose Aquapure Plus?</h2>
         <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
- Trusted Window Cleaners Serving Northampton for Over 15 Years.
+ Reliable local service with professional results you can depend on.
 </p>
 
 <div style={gridStyle}>
@@ -150,7 +150,7 @@ export default function Home() {
 </h2>
 
   <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
-  Aquapure Plus has been providing reliable exterior cleaning services across Northampton and the surrounding villages for over 15 years. We take pride in delivering excellent results with a friendly, professional approach.
+  Aquapure Plus provides reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with a friendly, professional approach..
 </p>
 
 <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
@@ -158,8 +158,7 @@ export default function Home() {
 </p>
 
   <p style={{ maxWidth: "800px", margin: "0 auto", textAlign: "center", lineHeight: "1.7" }}>
-    We want to leave you happy to tell a friend.
-    If you're not happy, tell us and we'll do everything we can to make it right.
+    Our aim is simple: To leave every customer happy enough to recommend us to family, friends and neighbours. If you're ever not completely satisfied, let us know and we'll do everything we can to make it right.
   </p>
 </section>
 <section style={sectionStyle}>
