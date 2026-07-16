@@ -31,7 +31,7 @@ export default function Home() {
   maxWidth: '1200px',
   margin: '0 auto 15px auto'
 }}>
-  Trusted Window Cleaners in Northampton Since 2006
+  Trusted Window Cleaners Serving Northampton for Over 15 Years
 </h2>
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
   Professional window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and the surrounding villages since 2006.
