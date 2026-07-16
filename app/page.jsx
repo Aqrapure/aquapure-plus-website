@@ -158,7 +158,7 @@ export default function Home() {
 </p>
 
   <p style={{ maxWidth: "800px", margin: "0 auto", textAlign: "center", lineHeight: "1.7" }}>
-    Our aim is simple: To leave every customer happy enough to recommend us to family, friends and neighbours. If you're ever not completely satisfied, let us know and we'll do everything we can to make it right.
+    Our aim is simple: to leave every customer happy enough to recommend us to family, friends and neighbours. If you're ever not completely satisfied, let us know and we'll do everything we can to make it right.
   </p>
 </section>
 <section style={sectionStyle}>
