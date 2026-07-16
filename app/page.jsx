@@ -150,7 +150,7 @@ export default function Home() {
 </h2>
 
   <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
-  Since 2006, Aquapure Plus has been providing reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with a friendly, professional approach.
+  Aquapure Plus has been providing reliable exterior cleaning services across Northampton and the surrounding villages for over 15 years. We take pride in delivering excellent results with a friendly, professional approach.
 </p>
 
 <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
