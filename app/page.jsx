@@ -104,7 +104,7 @@ export default function Home() {
 
   <div style={cardStyle}>
     <strong>Established Since 2006</strong>
-    <p>Nearly 20 years serving Northampton homeowners and businesses.</p>
+    <p>More than 15 years serving Northampton homeowners and businesses.</p>
   </div>
 
   <div style={cardStyle}>
