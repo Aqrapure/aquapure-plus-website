@@ -17,7 +17,7 @@ export default function GutterCleaningPage() {
 </p>
 
 <p>
-  We professionally clean exterior uPVC to restore the clean appearance of your home.
+ We clean exterior uPVC to restore the appearance of your home.
 </p>
 
 <p>
@@ -69,7 +69,7 @@ export default function GutterCleaningPage() {
 <h3>Exterior Gutter, Fascia & Soffit Cleaning</h3>
 
 <p>
-    We professionally clean exterior gutters, fascias and soffits to restore the appearance of your property. 
+    We clean exterior gutters, fascias and soffits to restore the appearance of your property. 
   Frames, sills and other exterior uPVC can also be cleaned as part of the service.
 </p>
 
@@ -81,7 +81,7 @@ export default function GutterCleaningPage() {
 <h3>Internal Gutter Clearing</h3>
 
 <p>
-    Using our professional gutter vacuum system, we safely remove
+    Using high-powered gutter vacuum system, we safely remove
     moss, leaves and debris from inside your gutters without the
     need for ladders in most situations.
 </p>
