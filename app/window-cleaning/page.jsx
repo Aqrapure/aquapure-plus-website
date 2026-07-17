@@ -14,7 +14,7 @@ export default function WindowCleaningPage() {
       </p>
 
       <p>
-        Aquapure Plus has provided regular window cleaning services since 2006.
+        Aquapure Plus has provided regular window cleaning Serving Northampton for over 15 years.
         Every property is cleaned carefully using professional pure-water
         equipment.
       </p>
@@ -41,7 +41,7 @@ export default function WindowCleaningPage() {
       <h2>Why Choose Aquapure Plus?</h2>
 
       <ul>
-        <li>✓ Established since 2006</li>
+        <li>✓ Serving Northampton for over 15 years</li>
         <li>✓ Reliable 4 or 8 weekly service rounds</li>
         <li>✓ Pure-water window cleaning</li>
         <li>✓ Frames, sills and uPVC doors included</li>
@@ -84,7 +84,7 @@ export default function WindowCleaningPage() {
       <h2>Request a Free Quote</h2>
 
       <p>
-        Contact Aquapure Plus today for your free no-obligation quotation.
+        Contact us today for your free, no-obligation quote.
       </p>
 
       <div style={buttonContainer}>
