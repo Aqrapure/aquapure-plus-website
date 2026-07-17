@@ -63,15 +63,14 @@ export default function GutterCleaningPage() {
      <h2>Our Exterior Cleaning Services</h2>
 
 <p>
-    We offer three exterior cleaning options depending on what
-    your property needs.
+    We offer three exterior cleaning services to suit your property's needs.
 </p>
 
 <h3>Exterior Gutter, Fascia & Soffit Cleaning</h3>
 
 <p>
-    Over time, fascias, soffits and exterior guttering become
-    dirty with traffic film, algae, cobwebs and general grime.
+    We professionally clean exterior gutters, fascias and soffits to restore the appearance of your property. 
+  Frames, sills and other exterior uPVC can also be cleaned as part of the service.
 </p>
 
 <p>
