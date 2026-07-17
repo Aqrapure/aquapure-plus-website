@@ -9,8 +9,7 @@ export default function ConservatoryCleaningPage() {
       <h1>Conservatory Roof Cleaning Northampton</h1>
 
       <p>
-  Professional conservatory roof cleaning for homes across Northampton and
-  surrounding villages.
+  Professional conservatory roof cleaning for homes throughout Northampton and the surrounding villages
 </p>
 
      <p>
