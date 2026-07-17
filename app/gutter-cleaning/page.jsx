@@ -10,7 +10,7 @@ export default function GutterCleaningPage() {
 
      <p>
   Professional gutter clearing for homes and suitable commercial properties
-  across Northampton and surrounding villages.
+  throughout Northampton and the surrounding villages
 </p>
 
 <p>
@@ -54,7 +54,7 @@ export default function GutterCleaningPage() {
   <li>✓ Over 15 years serving Northampton</li>
   <li>✓ High-powered commercial gutter vacuum system</li>
   <li>✓ Gutter clearing carried out safely from the ground</li>
-  <li>✓ Ladders used where access requires</li>
+  <li>✓ Ladders used only where necessary</li>
   <li>✓ Downpipes checked and flushed where needed</li>
   <li>✓ Exterior gutter, fascia and soffit cleaning available</li>
   <li>✓ Residential and suitable commercial properties</li>
@@ -103,7 +103,7 @@ export default function GutterCleaningPage() {
       <h2>Request a Free Quote</h2>
 
       <p>
-  Contact Aquapure Plus today for your free, no-obligation quotation.
+  Contact us today for your free, no-obligation quote.
 </p>
 
       <div style={buttonContainer}>
