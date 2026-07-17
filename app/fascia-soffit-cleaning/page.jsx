@@ -13,11 +13,11 @@ export default function GutterCleaningPage() {
 </p>
 
 <p>
-  Over time, fascias, soffits and exterior guttering collect traffic film, algae, cobwebs and general dirt, leaving the outside of your home looking tired.
+ Over time, fascias, soffits and exterior guttering can become dull and dirty, affecting the appearance of your home.
 </p>
 
 <p>
-  We carefully clean exterior uPVC using purified water and professional equipment to restore a brighter, cleaner appearance without harsh chemicals.
+  We professionally clean exterior uPVC to restore the clean appearance of your home.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ export default function GutterCleaningPage() {
 <h2>Why Choose Aquapure Plus?</h2>
 
 <ul>
-  <li>✓ Established since 2006</li>
+  <li>✓ Over 15 years serving Northampton</li>
   <li>✓ Fascias, soffits and exterior gutters cleaned</li>
   <li>✓ Safe for uPVC with no harsh chemicals</li>
   <li>✓ Local, reliable family business</li>
@@ -124,10 +124,8 @@ export default function GutterCleaningPage() {
      <h2>Request a Free Quote</h2>
 
 <p>
-    Contact Aquapure Plus today for a free,
-    no-obligation quotation for fascia,
-    soffit and exterior gutter cleaning
-    in Northampton and surrounding villages.
+    Contact Aquapure Plus today for your free, no-obligation quotation.
+  
 </p>
 
       <div style={buttonContainer}>
