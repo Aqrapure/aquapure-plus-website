@@ -51,7 +51,7 @@ export default function GutterCleaningPage() {
       <h2>Why Choose Aquapure Plus?</h2>
 
      <ul>
-  <li>✓ Established since 2006</li>
+  <li>✓ Over 15 years serving Northampton</li>
   <li>✓ High-powered commercial gutter vacuum system</li>
   <li>✓ Gutter clearing carried out safely from the ground</li>
   <li>✓ Ladders used where access requires</li>
@@ -61,11 +61,10 @@ export default function GutterCleaningPage() {
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
-      <h2>Our Gutter Cleaning Options</h2>
+      <h2>Our Gutter Cleaning Services</h2>
 
       <p>
-        Every property is different, so we offer three gutter cleaning
-        services depending on what you need.
+        We offer a range of gutter cleaning services to keep your gutters clear, flowing properly and looking their best.
       </p>
 
       <h3>Internal Gutter Clearing</h3>
