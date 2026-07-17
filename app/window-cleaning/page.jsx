@@ -68,7 +68,7 @@ export default function WindowCleaningPage() {
       <h2>Why Choose Aquapure Plus?</h2>
 
       <ul>
-        <li>✓ Serving Northampton for over 15 years</li>
+        <li>✓ Over 15 years serving Northampton</li>
         <li>✓ Reliable 4 or 8 weekly service rounds</li>
         <li>✓ Pure-water window cleaning</li>
         <li>✓ Frames, sills and uPVC doors included</li>
