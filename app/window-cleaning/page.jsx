@@ -56,8 +56,7 @@ export default function WindowCleaningPage() {
       <h2>Residential & Commercial Properties</h2>
 
       <p>
-        We provide window cleaning for houses, offices and suitable commercial
-        premises throughout Northampton and nearby villages.
+        We provide window cleaning for residential and commercial properties throughout Northampton and the surrounding villages.
       </p>
 
       <p>
