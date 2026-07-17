@@ -10,8 +10,7 @@ export default function WindowCleaningPage() {
       <h1>Window Cleaning Northampton</h1>
 
       <p>
-        Reliable professional window cleaning for homes, offices and commercial
-        premises across Northampton and surrounding villages.
+        Reliable professional window cleaning for residential and commercial properties throughout Northampton and the surrounding villages.
       </p>
 
       <p>
