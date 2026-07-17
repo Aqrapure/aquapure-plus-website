@@ -56,7 +56,7 @@ export default function GutterCleaningPage() {
   <li>✓ Over 15 years serving Northampton</li>
   <li>✓ Fascias, soffits and exterior gutters cleaned</li>
   <li>✓ Safe for uPVC with no harsh chemicals</li>
-  <li>✓ Local, reliable family business</li>
+  <li>✓ Local, reliable business</li>
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
