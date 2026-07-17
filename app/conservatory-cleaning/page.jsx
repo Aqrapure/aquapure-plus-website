@@ -55,10 +55,10 @@ export default function ConservatoryCleaningPage() {
       <h2>Why Choose Aquapure Plus?</h2>
 
       <ul>
-  <li>✓ Established since 2006</li>
+  <li>✓ Over 15 years serving Northampton</li>
   <li>✓ Glass and polycarbonate conservatory roofs cleaned</li>
   <li>✓ Roof panels, bars and exterior frames included</li>
-  <li>✓ Professional equipment used with care</li>
+  <li>✓ Careful cleaning methods for lasting results</li>
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
@@ -70,13 +70,7 @@ export default function ConservatoryCleaningPage() {
 </p>
 
 <p>
-  We professionally clean the roof panels, bars and exterior frames using
-  suitable equipment and careful cleaning methods.
-</p>
-
-<p>
-  We carefully clean conservatory roofs, roof bars and frames using purified water
-  and specialist equipment to achieve excellent results without harsh chemicals.
+ We clean roof panels, bars and exterior frames to restore the appearance of your conservatory roof.
 </p>
 
 <h2>Please Note</h2>
@@ -90,7 +84,7 @@ export default function ConservatoryCleaningPage() {
       <h2>Request a Free Quote</h2>
 
       <p>
-  Contact Aquapure Plus today for your free, no-obligation quotation.
+  Contact us today for your free, no-obligation quote.
 </p>
 
       <div style={buttonContainer}>
