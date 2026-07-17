@@ -31,24 +31,6 @@ export default function WindowCleaningPage() {
         </a>
       </div>
 
-      <img
-        src="/spotlessly-clean.JPG"
-        alt="Spotlessly clean windows completed by Aquapure Plus in Northampton"
-        style={imageStyle}
-      />
-
-      <h2>Why Choose Aquapure Plus?</h2>
-
-      <ul>
-        <li>✓ Serving Northampton for over 15 years</li>
-        <li>✓ Reliable 4 or 8 weekly service rounds</li>
-        <li>✓ Pure-water window cleaning</li>
-        <li>✓ Frames, sills and uPVC doors included</li>
-        <li>✓ Text reminder sent the day before</li>
-        <li>✓ Residential and commercial properties</li>
-        <li>✓ Fully insured</li>
-        <li>✓ Free, no-obligation quotations</li>
-      </ul>
 
       <h2>Our Window Cleaning Service</h2>
 
@@ -66,7 +48,12 @@ export default function WindowCleaningPage() {
         Customers can choose a regular 4 weekly or 8 weekly service, with a text
         reminder sent the day before we are due.
       </p>
-
+<img
+        src="/spotlessly-clean.JPG"
+        alt="Spotlessly clean windows completed by Aquapure Plus in Northampton"
+        style={imageStyle}
+      />
+      
       <h2>Residential & Commercial Properties</h2>
 
       <p>
@@ -80,6 +67,19 @@ export default function WindowCleaningPage() {
         standard on every visit.
       </p>
 
+      <h2>Why Choose Aquapure Plus?</h2>
+
+      <ul>
+        <li>✓ Serving Northampton for over 15 years</li>
+        <li>✓ Reliable 4 or 8 weekly service rounds</li>
+        <li>✓ Pure-water window cleaning</li>
+        <li>✓ Frames, sills and uPVC doors included</li>
+        <li>✓ Text reminder sent the day before</li>
+        <li>✓ Residential and commercial properties</li>
+        <li>✓ Fully insured</li>
+        <li>✓ Free, no-obligation quotations</li>
+      </ul>
+      
       <h2>Request a Free Quote</h2>
 
       <p>
