@@ -36,15 +36,11 @@ export default function GutterCleaningPage() {
 
       </div>
 
-      <img
-        src="/gutter-before-clean.jpg"
-        alt="Blocked gutters before cleaning"
-        style={imageStyle}
-      />
+      
 
       <img
-        src="/gutterafter-clean.jpg"
-        alt="Clean gutters after cleaning"
+        src="/gutter-clearing-vac.jpg"
+        alt="Professional gutter clearing using our gutter vacuum system in Northampton"
         style={imageStyle}
       />
 
