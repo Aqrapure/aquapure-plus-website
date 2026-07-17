@@ -61,7 +61,7 @@ export default function GutterCleaningPage() {
   <li>✓ Free, no-obligation quotations</li>
 </ul>
 
-      <h2>Our Gutter Cleaning Services</h2>
+      <h2>Our Gutter Cleaning Service</h2>
 
       <p>
         We offer a range of gutter cleaning services to keep your gutters clear, flowing properly and looking their best.
