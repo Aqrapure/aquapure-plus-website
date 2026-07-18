@@ -109,7 +109,7 @@ export default function Home() {
 
   <div style={cardStyle}>
     <strong>Residential & Commercial Properties</strong>
-    <p>Professional window cleaning services for homes, offices and commercial premises.</p>
+    <p>Professional window cleaning services for homes, and commercial premises.</p>
   </div>
 
   <div style={cardStyle}>
