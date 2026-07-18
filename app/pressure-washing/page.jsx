@@ -11,13 +11,11 @@ export default function PressureWashingPage() {
 
       <p>
         Professional pressure washing for patios, driveways and outdoor areas
-        across Northampton and surrounding villages.
+        throughout Northampton and surrounding villages.
       </p>
 
       <p>
-        Aquapure Plus provides pressure washing to remove built-up dirt, algae,
-        moss and surface grime, improving the overall appearance of your
-        property.
+       Aquapure Plus provides pressure washing for patios, driveways and suitable outdoor surfaces, removing surface grime and restoring the appearance of your property.
       </p>
 
       <div style={buttonContainer}>
@@ -42,10 +40,10 @@ export default function PressureWashingPage() {
       <h2>Why Choose Aquapure Plus?</h2>
 
       <ul>
-        <li>✓ Established since 2006</li>
+        <li>✓ Over 15 years serving Northampton</li>
         <li>✓ Local Northampton business</li>
         <li>✓ Patio and driveway pressure washing</li>
-        <li>✓ Professional equipment used with care</li>
+        <li>✓ Suitable equipment for every job</li>
         <li>✓ Honest advice before taking on work</li>
         <li>✓ Free, no-obligation quotations</li>
       </ul>
@@ -53,13 +51,11 @@ export default function PressureWashingPage() {
       <h2>Patio &amp; Driveway Pressure Washing</h2>
 
       <p>
-        Patios and driveways can collect algae, moss, dirt and general outdoor
-        grime over time.
+        Over time, patios and driveways can become dirty and weathered, affecting the appearance of your property.
       </p>
 
       <p>
-        Professional pressure washing removes this build-up, leaving outdoor
-        areas looking cleaner, brighter and more welcoming.
+        Pressure washing removes surface grime and helps restore a cleaner, fresher appearance.
       </p>
 
       <h2>Our Pressure Washing Service</h2>
@@ -70,8 +66,7 @@ export default function PressureWashingPage() {
       </p>
 
       <p>
-        Every job is viewed before a quotation is provided, allowing us to
-        confirm that pressure washing is suitable for the area.
+        Every property is assessed before providing a quotation to ensure pressure washing is the right solution for the surface being cleaned.
       </p>
 
       <img
@@ -83,7 +78,7 @@ export default function PressureWashingPage() {
       <h2>Request a Free Quote</h2>
 
       <p>
-        Contact Aquapure Plus today for your free, no-obligation quotation.
+        Contact us today for your free, no-obligation quotation.
       </p>
 
       <div style={buttonContainer}>
