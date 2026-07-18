@@ -10,8 +10,7 @@ export default function PressureWashingPage() {
       <h1>Pressure Washing Northampton</h1>
 
       <p>
-        Professional pressure washing for patios, driveways and outdoor areas
-        throughout Northampton and surrounding villages.
+        Pressure washing for patios, driveways and outdoor areas throughout Northampton and surrounding villages.
       </p>
 
       <p>
