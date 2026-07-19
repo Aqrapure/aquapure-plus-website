@@ -34,7 +34,8 @@ export default function Home() {
   Trusted Window Cleaners Serving Northampton
 </h2>
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
-  Window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and surrounding villages. Proudly serving local homes and businesses for over 15 years.
+  Window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and surrounding villages.
+          Proudly serving local homes and businesses for over 15 years.
 </p>
 
         <p><strong>Mark:</strong> 07849 459812</p>
