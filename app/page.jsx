@@ -150,7 +150,7 @@ export default function Home() {
 </h2>
 
   <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
-  Aquapure Plus provides reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with a friendly, professional approach.
+  Aquapure Plus provides reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with friendly, reliable service.
 </p>
 
 <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
@@ -168,7 +168,7 @@ export default function Home() {
   <div style={gridStyle}>
     <div style={cardStyle}>
       <strong>★★★★★</strong>
-      <p>Reliable and professional service. Windows always left spotless and text reminders are very helpful.</p>
+      <p>Reliable service. Windows are always left spotless and the text reminders are very helpful.</p>
       <p><em>– Northampton Customer</em></p>
     </div>
 
@@ -188,7 +188,7 @@ export default function Home() {
       <section style={sectionStyle}>
   <h2>Recent Results Across Northampton</h2>
   <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
-    A selection of window cleaning, gutter clearing, conservatory cleaning and exterior cleaning work carried out locally.
+    A selection of our recent work.
   </p>
 
       <div style={galleryStyle}>
@@ -246,7 +246,7 @@ export default function Home() {
         <h2>Areas Covered</h2>
        <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 20px' }}>
   We provide regular window cleaning, gutter clearing, conservatory roof cleaning
-  and exterior cleaning services throughout Northampton and surrounding villages.
+  and exterior cleaning services throughout Northampton and the surrounding villages.
 </p>
 
 <p style={{ textAlign: 'center' }}>
@@ -268,7 +268,7 @@ export default function Home() {
         <p style={{ marginBottom: "20px", lineHeight: "1.6" }}>
   Fully insured local window cleaners serving Northampton and surrounding villages.
   <br />
-  Free quotations with no pressure and no hidden costs.
+  Contact us today for a free, no-obligation quote.
 </p>
         <p><strong>Mark:</strong> 07849 459812</p>
         <p><strong>Roy:</strong> 07448 863669</p>
