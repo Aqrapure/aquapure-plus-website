@@ -34,7 +34,7 @@ export default function Home() {
   Trusted Window Cleaners Serving Northampton
 </h2>
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
-  Window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and surrounding villages.
+  Professional window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and surrounding villages.
           Proudly serving local homes and businesses for over 15 years.
 </p>
 
@@ -51,7 +51,7 @@ export default function Home() {
         </a>
       </section>
 
-      <section style={sectionStyle}>
+      <section style={{ ...sectionStyle, paddingTop: '20px' }}>
         <h2>Our Services</h2>
         <div style={gridStyle}>
           {[
@@ -60,7 +60,7 @@ export default function Home() {
   ['Gutter Clearing', 'Safe gutter clearing using our gutter vacuum system, without the need for ladders in most situations.'],
   ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with fascia, soffit and exterior uPVC cleaning.'],
   ['Patio Pressure Washing', 'Pressure washing for patios, paths and outdoor hard surfaces.'],
-  ['Driveway Pressure Washing', 'NEW SERVICE - Driveway and patio pressure washing to restore surfaces and improve kerb appeal.'],
+  ['Driveway Pressure Washing', 'Driveway and patio pressure washing to restore surfaces and improve kerb appeal.'],
 ].map(([title, text]) => (
             <div key={title} style={cardStyle}>
   <img
@@ -244,7 +244,7 @@ export default function Home() {
       </section>
 
       <section style={sectionStyle}>
-        <h2>Areas Covered</h2>
+        <h2>Areas We Cover</h2>
        <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 20px' }}>
   We provide regular window cleaning, gutter clearing, conservatory roof cleaning
   and exterior cleaning services throughout Northampton and the surrounding villages.
