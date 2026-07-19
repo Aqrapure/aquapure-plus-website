@@ -34,7 +34,7 @@ export default function Home() {
   Trusted Window Cleaners Serving Northampton
 </h2>
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
-  Professional window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and the surrounding villages for over 15 years.
+  Window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning services throughout Northampton and surrounding villages. Proudly serving local homes and businesses for over 15 years.
 </p>
 
         <p><strong>Mark:</strong> 07849 459812</p>
@@ -54,10 +54,10 @@ export default function Home() {
         <h2>Our Services</h2>
         <div style={gridStyle}>
           {[
-  ['Window Cleaning', 'Regular and one-off pure water window cleaning for homes and small businesses.'],
-  ['Conservatory Roof Cleaning', 'Professional cleaning of conservatory roofs, frames and glass panels.'],
-  ['Gutter Clearing', 'Professional gutter clearing using our gutter vacuum system to safely remove leaves, moss and debris from gutters without the need for ladders in most situations.'],
-  ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with exterior UPVC cleaning.'],
+  ['Window Cleaning', 'Regular reliable window cleaning for residential and commercial properties.'],
+  ['Conservatory Roof Cleaning', 'Cleaning of conservatory roofs, frames and glass panels to restore their appearance.'],
+  ['Gutter Clearing', 'Safe gutter clearing using our gutter vacuum system, without the need for ladders in most situations.'],
+  ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with fascia, soffit and exterior uPVC cleaning.'],
   ['Patio Pressure Washing', 'Pressure washing for patios, paths and outdoor hard surfaces.'],
   ['Driveway Pressure Washing', 'NEW SERVICE - Driveway and patio pressure washing to restore surfaces and improve kerb appeal.'],
 ].map(([title, text]) => (
@@ -103,7 +103,7 @@ export default function Home() {
   </div>
 
   <div style={cardStyle}>
-    <strong>Established Since 2006</strong>
+    <strong>Over 15 Years Serving Northampton</strong>
     <p>More than 15 years serving Northampton homeowners and businesses.</p>
   </div>
 
@@ -150,7 +150,7 @@ export default function Home() {
 </h2>
 
   <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
-  Aquapure Plus provides reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with a friendly, professional approach..
+  Aquapure Plus provides reliable exterior cleaning services across Northampton and the surrounding villages. We take pride in delivering excellent results with a friendly, professional approach.
 </p>
 
 <p style={{ maxWidth: '800px', margin: '0 auto 25px', textAlign: 'center', lineHeight: '1.7' }}>
@@ -158,7 +158,8 @@ export default function Home() {
 </p>
 
   <p style={{ maxWidth: "800px", margin: "0 auto", textAlign: "center", lineHeight: "1.7" }}>
-    Our aim is simple: to leave every customer happy enough to recommend us to family, friends and neighbours. If you're ever not completely satisfied, let us know and we'll do everything we can to make it right.
+    Our aim is simple: to leave every customer happy enough to recommend us to family, friends and neighbours. 
+    If you're ever not completely satisfied, let us know and we'll do everything we can to make it right.
   </p>
 </section>
 <section style={sectionStyle}>
