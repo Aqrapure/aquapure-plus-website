@@ -256,7 +256,7 @@ Serving Northampton homes and businesses for over 15 years.
 </p>
 
 <p style={{ textAlign: 'center' }}>
-  Northampton • Kingsthorpe • Duston • Moulton • Wootton • Boughton •
+  Kingsthorpe • Duston • Moulton • Wootton • Boughton •
   West Hunsbury • East Hunsbury • Upton • Grange Park
 </p>
 
