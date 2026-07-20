@@ -34,10 +34,9 @@ export default function Home() {
   Trusted Window Cleaners Serving Northampton
 </h2>
         <p style={{ fontSize: '1.2rem', lineHeight: '1.6' }}>
-  Professional window cleaning, gutter clearing, conservatory roof cleaning
-and exterior cleaning services.
+  Professional window cleaning, gutter clearing, conservatory roof cleaning and exterior cleaning.
 
-Proudly serving Northampton homes and businesses for over 15 years.
+Serving Northampton homes and businesses for over 15 years.
 </p>
 
         <p><strong>Mark:</strong> 07849 459812</p>
@@ -59,7 +58,7 @@ Proudly serving Northampton homes and businesses for over 15 years.
           {[
   ['Window Cleaning', 'Regular reliable window cleaning for residential and commercial properties.'],
   ['Conservatory Roof Cleaning', 'Cleaning of conservatory roofs, frames and glass panels to restore their appearance.'],
-  ['Gutter Clearing', 'Safe gutter clearing using our gutter vacuum system, without the need for ladders in most situations.'],
+  ['Gutter Clearing', 'Safe gutter clearing to remove moss, leaves and debris, helping rainwater flow freely.'],
   ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with fascia, soffit and exterior uPVC cleaning.'],
   ['Patio Pressure Washing', 'Pressure washing for patios, paths and outdoor hard surfaces.'],
   ['Driveway Pressure Washing', 'Driveway and patio pressure washing to restore surfaces and improve kerb appeal.'],
@@ -112,7 +111,7 @@ Proudly serving Northampton homes and businesses for over 15 years.
 
   <div style={cardStyle}>
     <strong>Residential & Commercial Properties</strong>
-    <p>Professional window cleaning services for homes, and commercial premises.</p>
+    <p>Professional window cleaning services for homes and commercial premises.</p>
   </div>
 
   <div style={cardStyle}>
@@ -196,7 +195,7 @@ Proudly serving Northampton homes and businesses for over 15 years.
 
       <div style={galleryStyle}>
  <img
-  src="/stock-twobed-house.jpg"
+  src="/house-stock.jpg"
   alt="Residential window cleaning Northampton"
   style={imageStyle}
 />
