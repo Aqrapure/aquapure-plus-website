@@ -17,7 +17,28 @@ export default function WindowCleaningPage() {
         Aquapure Plus provides regular window cleaning throughout Northampton and the surrounding villages. Every property is cleaned carefully using our professional pure-water system.
       </p>
 
-      <div style={buttonContainer}>
+      <p
+  style={{
+    fontSize: "1.2rem",
+    fontWeight: "bold",
+    color: "#0b6e4f",
+    margin: "25px 0 8px",
+  }}
+>
+  Prices from £18
+</p>
+
+<p
+  style={{
+    fontStyle: "italic",
+    marginBottom: "25px",
+  }}
+>
+  Every property is individually quoted based on its size, layout and access,
+  ensuring you receive a fair and accurate price.
+</p>
+
+<div style={buttonContainer}>
         <a href={`tel:${phoneMark}`} style={buttonStyle}>
           Call Mark
         </a>
