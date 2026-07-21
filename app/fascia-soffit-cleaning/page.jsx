@@ -24,7 +24,28 @@ export default function GutterCleaningPage() {
   Whether you need your fascias and soffits cleaned on their own or as part of a complete exterior clean, we're happy to help.
 </p>
 
+<p
+  style={{
+    fontSize: "1.2rem",
+    fontWeight: "bold",
+    color: "#0b6e4f",
+    margin: "25px 0 8px",
+  }}
+>
+  Prices from £70
+</p>
 
+<p
+  style={{
+    fontStyle: "italic",
+    marginBottom: "25px",
+  }}
+>
+  Every property is individually quoted based on its size and condition,
+  ensuring you receive a fair and accurate price.
+</p>
+
+<div style={buttonContainer}>
 
       <div style={buttonContainer}>
 
