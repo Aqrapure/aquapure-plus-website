@@ -18,7 +18,28 @@ export default function ConservatoryCleaningPage() {
   appearance.
 </p>
 
-      <div style={buttonContainer}>
+      <p
+  style={{
+    fontSize: "1.2rem",
+    fontWeight: "bold",
+    color: "#0b6e4f",
+    margin: "25px 0 8px",
+  }}
+>
+  Prices from £60
+</p>
+
+<p
+  style={{
+    fontStyle: "italic",
+    marginBottom: "25px",
+  }}
+>
+  Every conservatory roof is individually quoted based on its size, design and
+  condition, ensuring you receive a fair and accurate price.
+</p>
+
+<div style={buttonContainer}>
         <a href={`tel:${phoneMark}`} style={buttonStyle}>
           Call Mark
         </a>
