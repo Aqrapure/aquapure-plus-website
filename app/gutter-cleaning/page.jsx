@@ -18,7 +18,28 @@ export default function GutterCleaningPage() {
   properties from overflowing rainwater and possible water damage.
 </p>
 
-      <div style={buttonContainer}>
+   <p
+  style={{
+    fontSize: "1.2rem",
+    fontWeight: "bold",
+    color: "#0b6e4f",
+    margin: "25px 0 8px",
+  }}
+>
+  Prices from £70
+</p>
+
+<p
+  style={{
+    fontStyle: "italic",
+    marginBottom: "25px",
+  }}
+>
+  Every property is individually quoted based on the size of the property and
+  the work required.
+</p>
+
+<div style={buttonContainer}>
 
         <a
           href={`tel:${phoneMark}`}
