@@ -47,7 +47,6 @@ export default function GutterCleaningPage() {
 
 <div style={buttonContainer}>
 
-      <div style={buttonContainer}>
 
         <a
           href={`tel:${phoneMark}`}
