@@ -3,6 +3,8 @@ export const metadata = {
   description:
     "Professional gutter clearing using a powerful gutter vacuum system throughout Northampton and surrounding villages. Free quotations.",
 };
+
+export default function GutterCleaningPage() {
   const phoneMark = "07XXXXXXXXX"; // Replace with Mark's number
   const whatsappMessage =
     "Hi Mark, I'd like a quote for gutter cleaning.";
