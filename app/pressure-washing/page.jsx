@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Pressure Washing Northampton | Aquapure Plus",
+  description:
+    "Professional driveway and patio pressure washing throughout Northampton and surrounding villages. Free quotations.",
+};
 export default function PressureWashingPage() {
   const phoneMark = "07456871686";
 
