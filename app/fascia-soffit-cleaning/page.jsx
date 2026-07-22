@@ -3,6 +3,8 @@ export const metadata = {
   description:
     "Professional fascia, soffit and exterior gutter cleaning throughout Northampton and surrounding villages. Free quotations.",
 };
+
+export default function FasciaSoffitCleaningPage() {
   const phoneMark = "07849459812"; // Replace with Mark's number
   const whatsappMessage =
     "Hi Mark, I'd like a quote for fascia & soffits cleaning.";
