@@ -1,4 +1,8 @@
-export default function GutterCleaningPage() {
+export const metadata = {
+  title: "Gutter Cleaning Northampton | Aquapure Plus",
+  description:
+    "Professional gutter clearing using a powerful gutter vacuum system throughout Northampton and surrounding villages. Free quotations.",
+};
   const phoneMark = "07XXXXXXXXX"; // Replace with Mark's number
   const whatsappMessage =
     "Hi Mark, I'd like a quote for gutter cleaning.";
