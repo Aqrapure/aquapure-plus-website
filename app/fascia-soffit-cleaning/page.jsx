@@ -1,4 +1,8 @@
-export default function GutterCleaningPage() {
+export const metadata = {
+  title: "Fascia & Soffit Cleaning Northampton | Aquapure Plus",
+  description:
+    "Professional fascia, soffit and exterior gutter cleaning throughout Northampton and surrounding villages. Free quotations.",
+};
   const phoneMark = "07849459812"; // Replace with Mark's number
   const whatsappMessage =
     "Hi Mark, I'd like a quote for fascia & soffits cleaning.";
