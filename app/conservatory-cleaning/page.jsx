@@ -1,3 +1,9 @@
+export const metadata = {
+  title: "Conservatory Roof Cleaning Northampton | Aquapure Plus",
+  description:
+    "Professional conservatory roof cleaning throughout Northampton and surrounding villages. Roof bars and frames included. Free quotations.",
+};
+
 export default function ConservatoryCleaningPage() {
   const phoneMark = '07456871686';
   const whatsappMessage = encodeURIComponent(
