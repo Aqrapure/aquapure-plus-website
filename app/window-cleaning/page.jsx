@@ -1,3 +1,9 @@
+export const metadata = {
+  title: "Window Cleaning Northampton | Aquapure Plus",
+  description:
+    "Professional residential and commercial window cleaning throughout Northampton and surrounding villages. Regular 4 and 8 weekly service available. Free quotations.",
+};
+
 export default function WindowCleaningPage() {
   const phoneMark = "07456871686";
 
