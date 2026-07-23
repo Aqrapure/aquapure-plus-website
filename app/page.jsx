@@ -43,7 +43,7 @@ Serving Northampton homes and businesses for over 15 years.
         <p><strong>Roy:</strong> 07448 863669</p>
         <p><strong>Freephone:</strong> 0800 625 0628</p>
 
-        <a href={`tel:${phoneMark}`} style={buttonStyle}>Call Mark</a>
+        <a href={`tel:${phoneMark}`} style={buttonStyle}>Call Us</a>
         <a
           href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
           style={greenButtonStyle}
