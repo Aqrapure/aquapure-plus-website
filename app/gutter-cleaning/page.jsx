@@ -66,7 +66,7 @@ export default function GutterCleaningPage() {
       
 
       <img
-        src="/gutter-clearing-vac.jpg"
+        src="/guttervac-clearing.jpg"
         alt="Professional gutter clearing using our gutter vacuum system in Northampton"
         style={imageStyle}
       />
