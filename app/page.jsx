@@ -1,3 +1,4 @@
+import Link from 'next/link';
 export default function Home() {
   const phoneMark = '07849459812';
   const phoneRoy = '07448863669';
