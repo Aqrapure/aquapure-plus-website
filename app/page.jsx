@@ -171,7 +171,7 @@ Serving Northampton homes and businesses for over 15 years.
     <div style={cardStyle}>
       <strong>★★★★★</strong>
       <p>Reliable service. Windows are always left spotless and the text reminders are very helpful.</p>
-      <p><em>– Northampton Customer</em></p>
+      <p><em>– Billing Customer</em></p>
     </div>
 
     <div style={cardStyle}>
@@ -257,7 +257,7 @@ Serving Northampton homes and businesses for over 15 years.
 
 <p style={{ textAlign: 'center' }}>
   Kingsthorpe • Duston • Moulton • Wootton • Boughton •
-  West Hunsbury • East Hunsbury • Upton • Grange Park
+  West Hunsbury • East Hunsbury • Upton • Grange Park • Denton
 </p>
 
 <p style={{ textAlign: 'center' }}>
