@@ -45,27 +45,32 @@ export default function GutterClearingPage() {
         </p>
       </section>
 
-      <section style={{ marginBottom: "40px" }}>
-        <h2 style={{ color: "#0b5fa5" }}>
-          Internal and Exterior Gutter Cleaning
-        </h2>
+     <section style={{ marginBottom: "40px" }}>
+  <h2 style={{ color: "#0b5fa5" }}>
+    Internal & Exterior Gutter Services
+  </h2>
 
-        <p>
-          Our gutter clearing service removes blockages from inside the
-          guttering to help rainwater flow away properly.
-        </p>
+  <p>
+    These are two separate services. You can arrange either one independently,
+    or have both completed during the same visit.
+  </p>
 
-        <p>
-          Exterior gutter, fascia and soffit cleaning is also available for
-          customers who would like to improve the overall appearance of their
-          property.
-        </p>
+  <ul style={{ paddingLeft: "22px" }}>
+    <li style={{ marginBottom: "20px" }}>
+      <strong>Internal Gutter Clearing</strong>
+      <br />
+      Removes moss and debris from inside the guttering, helping rainwater flow
+      away freely and keeping your gutters working as they should.
+    </li>
 
-        <p>
-          These services can be completed separately or together during the
-          same visit.
-        </p>
-      </section>
+    <li>
+      <strong>Exterior Gutter, Fascia & Soffit Cleaning</strong>
+      <br />
+      Cleans the outside of the guttering, fascias and soffits to improve the
+      overall appearance of your property.
+    </li>
+  </ul>
+</section>
 
       <section style={{ marginBottom: "40px" }}>
         <h2 style={{ color: "#0b5fa5" }}>
