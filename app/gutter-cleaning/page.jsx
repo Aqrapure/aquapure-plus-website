@@ -1,195 +1,96 @@
+import ServicePage from "../components/ServicePage";
+
 export const metadata = {
-  title: "Gutter Cleaning Northampton | Aquapure Plus",
+  title: "Gutter Clearing Northampton | Aquapure Plus",
   description:
-    "Professional gutter clearing using a powerful gutter vacuum system throughout Northampton and surrounding villages. Free quotations.",
+    "Professional gutter clearing in Northampton and nearby villages using a powerful gutter vacuum system. Prices from £70.",
 };
 
-export default function GutterCleaningPage() {
-  const phoneMark = "07XXXXXXXXX"; // Replace with Mark's number
-  const whatsappMessage =
-    "Hi Mark, I'd like a quote for gutter cleaning.";
-
+export default function GutterClearingPage() {
   return (
-    <main style={container}>
+    <ServicePage
+      title="Gutter Clearing Northampton"
+      intro="Keep rainwater flowing freely and help reduce the risk of water damage with professional gutter clearing from Aquapure Plus."
+      image="/gutter-vacuum-service.jpg"
+      price="Prices from £70"
+      emailSubject="Gutter Clearing Enquiry"
+      serviceName="gutter clearing"
+    >
+      <section style={{ marginBottom: "40px" }}>
+        <h2 style={{ color: "#0b5fa5" }}>Looking After Your Gutters</h2>
 
-      <h1>Gutter Cleaning Northampton</h1>
+        <p>
+          Blocked gutters can prevent rainwater from draining away properly,
+          particularly during periods of heavy rainfall. Regular gutter
+          clearing helps your guttering continue to do the job it was designed
+          for, giving you peace of mind and helping to protect your property.
+        </p>
+      </section>
 
-     <p>
-  Professional gutter clearing for homes and suitable commercial properties
-  throughout Northampton and the surrounding villages
-</p>
+      <section style={{ marginBottom: "40px" }}>
+        <h2 style={{ color: "#0b5fa5" }}>
+          A Safe and Professional Approach
+        </h2>
 
-<p>
-  Aquapure Plus provides professional gutter clearing to help protect
-  properties from overflowing rainwater and possible water damage.
-</p>
+        <p>
+          We use a powerful professional gutter vacuum system, allowing us to
+          clear gutters safely and efficiently from ground level wherever
+          possible. Ladders are used only when necessary, and downpipes can be
+          checked and flushed where required.
+        </p>
 
-   <p
-  style={{
-    fontSize: "1.2rem",
-    fontWeight: "bold",
-    color: "#0b6e4f",
-    margin: "25px 0 8px",
-  }}
->
-  Prices from £70
-</p>
+        <p>
+          We work carefully around your property and leave the surrounding area
+          tidy when the work is complete.
+        </p>
+      </section>
 
-<p
-  style={{
-    fontStyle: "italic",
-    marginBottom: "25px",
-  }}
->
-  Every property is individually quoted based on the size of the property and
-  the work required.
-</p>
+      <section style={{ marginBottom: "40px" }}>
+        <h2 style={{ color: "#0b5fa5" }}>
+          Internal and Exterior Gutter Cleaning
+        </h2>
 
-<div style={buttonContainer}>
+        <p>
+          Our gutter clearing service removes blockages from inside the
+          guttering to help rainwater flow away properly.
+        </p>
 
-        <a
-          href={`tel:${phoneMark}`}
-          style={buttonStyle}
-        >
-          Call Mark
-        </a>
+        <p>
+          Exterior gutter, fascia and soffit cleaning is also available for
+          customers who would like to improve the overall appearance of their
+          property.
+        </p>
 
-        <a
-          href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
-          style={whatsappStyle}
-        >
-          WhatsApp
-        </a>
+        <p>
+          These services can be completed separately or together during the
+          same visit.
+        </p>
+      </section>
 
-      </div>
+      <section style={{ marginBottom: "40px" }}>
+        <h2 style={{ color: "#0b5fa5" }}>
+          When Should Gutters Be Cleared?
+        </h2>
 
-      
+        <p>
+          Many properties benefit from having their gutters checked and cleared
+          annually. Homes close to trees may require attention more frequently,
+          depending on the property and its surroundings.
+        </p>
+      </section>
 
-      <img
-       src="/gutter-vacuum-service.jpg"
-        alt="Professional gutter clearing using our gutter vacuum system in Northampton"
-        style={imageStyle}
-      />
+      <section>
+        <h2 style={{ color: "#0b5fa5" }}>
+          Why Choose Aquapure Plus?
+        </h2>
 
-      <h2>Why Choose Aquapure Plus?</h2>
-
-     <ul>
-  <li>✓ Over 15 years serving Northampton</li>
-  <li>✓ High-powered commercial gutter vacuum system</li>
-  <li>✓ Gutter clearing carried out safely from the ground</li>
-  <li>✓ Ladders used only where necessary</li>
-  <li>✓ Downpipes checked and flushed where needed</li>
-  <li>✓ Exterior gutter, fascia and soffit cleaning available</li>
-  <li>✓ Residential and suitable commercial properties</li>
-  <li>✓ Free, no-obligation quotations</li>
-</ul>
-
-      <h2>Our Gutter Cleaning Service</h2>
-
-      <p>
-        We offer a range of gutter cleaning services to keep your gutters clear, flowing properly and looking their best.
-      </p>
-
-      <h3>Internal Gutter Clearing</h3>
-
-      <p>
-  Using our high-powered commercial gutter vacuum system, we safely remove
-  moss, leaves and debris from inside your gutters. Ladders are used where
-  access requires, and downpipes are checked and flushed where needed.
-</p>
-
-      <h3>Exterior Gutter, Fascia & Soffit Cleaning</h3>
-
-      <p>
-        If your gutters, fascias and soffits are dirty, green or covered in
-        traffic film, we can safely clean the exterior to restore a fresh
-        brighter appearance.
-      </p>
-
-      <h3>Complete Gutter Service</h3>
-
-      <p>
-        Many customers choose to have everything completed during one visit —
-        gutters cleared internally, downpipes checked, and the exterior
-        guttering, fascias and soffits professionally cleaned.
-      </p>
-
-      <h2>How Often Should Gutters Be Cleared?</h2>
-
-      <p>
-  It is recommended that gutters are cleared every 12 months for most
-  properties. Properties surrounded by trees may require more frequent
-  visits to help prevent blockages, overflowing gutters and possible
-  water damage.
-</p>
-
-      <h2>Request a Free Quote</h2>
-
-      <p>
-  Contact us today for your free, no-obligation quote.
-</p>
-
-      <div style={buttonContainer}>
-
-        <a
-          href={`tel:${phoneMark}`}
-          style={buttonStyle}
-        >
-          Call Mark
-        </a>
-
-        <a
-          href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
-          style={whatsappStyle}
-        >
-          WhatsApp
-        </a>
-
-      </div>
-
-    </main>
+        <p>
+          We provide a reliable local service for homes and suitable commercial
+          properties throughout Northampton and nearby villages. You can expect
+          clear communication, careful workmanship and respect for your
+          property from the moment you contact us.
+        </p>
+      </section>
+    </ServicePage>
   );
 }
-
-const container = {
-  maxWidth: "900px",
-  margin: "0 auto",
-  padding: "40px 20px",
-  fontFamily: "Arial, sans-serif",
-  lineHeight: "1.8",
-  color: "#0b2545"
-};
-
-const imageStyle = {
-  width: "100%",
-  borderRadius: "14px",
-  margin: "25px 0"
-};
-
-const buttonContainer = {
-  display: "flex",
-  gap: "15px",
-  margin: "30px 0"
-};
-
-const buttonStyle = {
-  flex: 1,
-  background: "#0067d8",
-  color: "#fff",
-  textAlign: "center",
-  padding: "14px",
-  borderRadius: "8px",
-  textDecoration: "none",
-  fontWeight: "bold"
-};
-
-const whatsappStyle = {
-  flex: 1,
-  background: "#2ec84d",
-  color: "#fff",
-  textAlign: "center",
-  padding: "14px",
-  borderRadius: "8px",
-  textDecoration: "none",
-  fontWeight: "bold"
-};
