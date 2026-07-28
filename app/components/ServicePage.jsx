@@ -6,8 +6,32 @@ export default function ServicePage({
   intro,
   image,
   price,
+  emailSubject,
+  serviceName,
   children,
 }) {
+  const emailBody = `Hello Aquapure Plus,
+
+I would like a free quotation for ${serviceName}.
+
+Name:
+
+Property address:
+
+Postcode:
+
+Preferred contact method: Phone / Email
+
+Telephone:
+
+Email:
+
+Additional information:`;
+
+  const emailLink = `mailto:info@aquapure-plus.co.uk?subject=${encodeURIComponent(
+    emailSubject
+  )}&body=${encodeURIComponent(emailBody)}`;
+
   return (
     <main
       style={{
@@ -18,72 +42,99 @@ export default function ServicePage({
         lineHeight: "1.7",
       }}
     >
-      <h1
+      <section
         style={{
-          color: "#0b5fa5",
-          fontSize: "2.4rem",
-          marginBottom: "20px",
-        }}
-      >
-        {title}
-      </h1>
-
-      <p
-        style={{
-          fontSize: "1.2rem",
-          marginBottom: "30px",
-        }}
-      >
-        {intro}
-      </p>
-
-      <h2
-        style={{
-          color: "#2d7d46",
-          marginBottom: "20px",
-        }}
-      >
-        {price}
-      </h2>
-
-      <div
-        style={{
-          display: "flex",
-          gap: "15px",
-          flexWrap: "wrap",
+          background: "#f5f8fa",
+          padding: "35px",
+          borderRadius: "12px",
           marginBottom: "35px",
         }}
       >
-        <a
-          href="tel:YOUR_NUMBER"
+        <h1
           style={{
-            background: "#0b5fa5",
-            color: "white",
-            padding: "12px 24px",
-            borderRadius: "8px",
-            textDecoration: "none",
-            fontWeight: "bold",
+            color: "#0b5fa5",
+            fontSize: "2.4rem",
+            marginTop: "0",
+            marginBottom: "20px",
           }}
         >
-          Call Now
-        </a>
+          {title}
+        </h1>
 
-        <a
-          href="https://wa.me/YOUR_WHATSAPP"
-          target="_blank"
-          rel="noopener noreferrer"
+        <p
           style={{
-            background: "#25D366",
-            color: "white",
-            padding: "12px 24px",
-            borderRadius: "8px",
-            textDecoration: "none",
-            fontWeight: "bold",
+            fontSize: "1.2rem",
+            marginBottom: "25px",
           }}
         >
-          WhatsApp
-        </a>
-      </div>
+          {intro}
+        </p>
+
+        <h2
+          style={{
+            color: "#2d7d46",
+            marginBottom: "8px",
+          }}
+        >
+          {price}
+        </h2>
+
+        <p style={{ marginTop: "0", marginBottom: "20px" }}>
+          Contact us to arrange your free, no-obligation quotation.
+        </p>
+
+        <div
+          style={{
+            display: "flex",
+            gap: "15px",
+            flexWrap: "wrap",
+          }}
+        >
+          <a
+            href="tel:*447448863669"
+            style={{
+              background: "#0b5fa5",
+              color: "white",
+              padding: "12px 24px",
+              borderRadius: "8px",
+              textDecoration: "none",
+              fontWeight: "bold",
+            }}
+          >
+            Call Now
+          </a>
+
+          <a
+            href="https://wa.me/+447448863669"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              background: "#25D366",
+              color: "white",
+              padding: "12px 24px",
+              borderRadius: "8px",
+              textDecoration: "none",
+              fontWeight: "bold",
+            }}
+          >
+            WhatsApp
+          </a>
+
+          <a
+            href={emailLink}
+            style={{
+              background: "#2d7d46",
+              color: "white",
+              padding: "12px 24px",
+              borderRadius: "8px",
+              textDecoration: "none",
+              fontWeight: "bold",
+            }}
+          >
+            Email Enquiry
+          </a>
+        </div>
+      </section>
 
       <Image
         src={image}
@@ -109,9 +160,11 @@ export default function ServicePage({
           borderRadius: "8px",
         }}
       >
-        <h2>The Aquapure Plus Promise</h2>
+        <h2 style={{ marginTop: "0", color: "#0b5fa5" }}>
+          The Aquapure Plus Promise
+        </h2>
 
-        <p>
+        <p style={{ marginBottom: "0" }}>
           We take pride in delivering a reliable, professional service with
           respect for your home and surroundings. Every property is treated
           with the same care and attention we would expect for our own.
