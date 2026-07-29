@@ -86,7 +86,7 @@ export default function GutterClearingPage() {
           Why Customers Choose Aquapure Plus?
         </h2>
 
-        <<ul style={{ paddingLeft: "22px" }}>
+        <ul style={{ paddingLeft: "22px" }}>
   <li>Trusted by customers across Northampton for over 15 years</li>
   <li>Reliable, friendly and professional service</li>
   <li>Respect for your home and property</li>
