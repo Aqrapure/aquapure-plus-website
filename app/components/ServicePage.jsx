@@ -32,6 +32,21 @@ Additional information:`;
     emailSubject
   )}&body=${encodeURIComponent(emailBody)}`;
 
+  const contactButtonStyle = {
+    width: "100%",
+    maxWidth: "260px",
+    minHeight: "52px",
+    display: "inline-flex",
+    alignItems: "center",
+    justifyContent: "center",
+    padding: "12px 20px",
+    borderRadius: "8px",
+    color: "white",
+    textDecoration: "none",
+    fontWeight: "bold",
+    boxSizing: "border-box",
+  };
+
   return (
     <main
       style={{
@@ -40,20 +55,23 @@ Additional information:`;
         padding: "40px 20px",
         fontFamily: "Arial, sans-serif",
         lineHeight: "1.7",
+        color: "#0b2545",
       }}
     >
       <section
         style={{
           background: "#f5f8fa",
-          padding: "35px",
+          padding: "35px 25px",
           borderRadius: "12px",
           marginBottom: "35px",
+          textAlign: "center",
         }}
       >
         <h1
           style={{
             color: "#0b5fa5",
             fontSize: "2.4rem",
+            lineHeight: "1.25",
             marginTop: "0",
             marginBottom: "20px",
           }}
@@ -64,7 +82,8 @@ Additional information:`;
         <p
           style={{
             fontSize: "1.2rem",
-            marginBottom: "25px",
+            maxWidth: "750px",
+            margin: "0 auto 25px",
           }}
         >
           {intro}
@@ -73,48 +92,42 @@ Additional information:`;
         <h2
           style={{
             color: "#2d7d46",
+            marginTop: "0",
             marginBottom: "8px",
           }}
         >
           {price}
         </h2>
 
-        <p style={{ marginTop: "0", marginBottom: "20px" }}>
-          Contact us today to arrange your free quotation.
+        <p style={{ marginTop: "0", marginBottom: "25px" }}>
+          Contact us today for your free quotation.
         </p>
 
         <div
           style={{
             display: "flex",
+            justifyContent: "center",
             gap: "15px",
             flexWrap: "wrap",
           }}
         >
           <a
-            href="tel:*447448863669"
+            href="tel:+447448863669"
             style={{
+              ...contactButtonStyle,
               background: "#0b5fa5",
-              color: "white",
-              padding: "12px 24px",
-              borderRadius: "8px",
-              textDecoration: "none",
-              fontWeight: "bold",
             }}
           >
             Call Now
           </a>
 
           <a
-            href="https://wa.me/+447448863669"
+            href="https://wa.me/447448863669"
             target="_blank"
             rel="noopener noreferrer"
             style={{
+              ...contactButtonStyle,
               background: "#25D366",
-              color: "white",
-              padding: "12px 24px",
-              borderRadius: "8px",
-              textDecoration: "none",
-              fontWeight: "bold",
             }}
           >
             WhatsApp
@@ -123,12 +136,8 @@ Additional information:`;
           <a
             href={emailLink}
             style={{
+              ...contactButtonStyle,
               background: "#2d7d46",
-              color: "white",
-              padding: "12px 24px",
-              borderRadius: "8px",
-              textDecoration: "none",
-              fontWeight: "bold",
             }}
           >
             Email Enquiry
