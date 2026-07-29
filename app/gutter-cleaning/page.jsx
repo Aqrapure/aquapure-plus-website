@@ -20,10 +20,7 @@ export default function GutterClearingPage() {
         <h2 style={{ color: "#0b5fa5" }}>Looking After Your Gutters</h2>
 
         <p>
-          Blocked gutters can prevent rainwater from draining away properly,
-          particularly during periods of heavy rainfall. Regular gutter
-          clearing helps your guttering continue to do the job it was designed
-          for, giving you peace of mind and helping to protect your property.
+          Regular gutter clearing helps keep your guttering working as it should and allows rainwater to flow away freely.
         </p>
       </section>
 
@@ -86,16 +83,18 @@ export default function GutterClearingPage() {
 
       <section>
         <h2 style={{ color: "#0b5fa5" }}>
-          Why Choose Aquapure Plus?
+          Why Customers Choose Aquapure Plus?
         </h2>
 
-        <p>
-          We provide a reliable local service for homes and suitable commercial
-          properties throughout Northampton and nearby villages. You can expect
-          clear communication, careful workmanship and respect for your
-          property from the moment you contact us.
-        </p>
-      </section>
+        <<ul style={{ paddingLeft: "22px" }}>
+  <li>Trusted by customers across Northampton for over 15 years</li>
+  <li>Reliable, friendly and professional service</li>
+  <li>Respect for your home and property</li>
+  <li>Residential and suitable commercial properties</li>
+  <li>Free quotations with no obligation</li>
+</ul>
+      
+        </section>
     </ServicePage>
   );
 }
