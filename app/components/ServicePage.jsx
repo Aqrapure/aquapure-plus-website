@@ -112,7 +112,7 @@ Additional information:`;
           }}
         >
           <a
-            href="tel:+447860150637"
+            href="tel:+447448863669"
             style={{
               ...contactButtonStyle,
               background: "#0b5fa5",
@@ -122,7 +122,7 @@ Additional information:`;
           </a>
 
           <a
-            href="https://wa.me/447860150637"
+            href="https://wa.me/447448863669"
             target="_blank"
             rel="noopener noreferrer"
             style={{
