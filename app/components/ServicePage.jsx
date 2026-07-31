@@ -174,10 +174,13 @@ Additional information:`;
         </h2>
 
         <p style={{ marginBottom: "0" }}>
-          We take pride in delivering a reliable, professional service with
-          respect for your home and surroundings. Every property is treated
-          with the same care and attention we would expect for our own.
-        </p>
+  We take pride in delivering a reliable, professional service with
+  respect for your home and surroundings. Every property is treated
+  with the same care and attention we would expect for our own.
+  <br /><br />
+  We look forward to helping you keep your property looking its best.
+  Contact us today for your free quotation.
+</p>
       </section>
 
       <div
