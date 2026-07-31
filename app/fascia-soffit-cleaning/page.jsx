@@ -29,17 +29,7 @@ export default function FasciaSoffitCleaningPage() {
         </p>
       </section>
 
-      <section style={{ marginBottom: "40px" }}>
-        <h2 style={{ color: "#0b5fa5" }}>
-          Our Exterior Cleaning Service
-        </h2>
-
-        <p>
-          We professionally clean the exterior gutters, fascias and soffits as
-          one complete service, giving your property a cleaner, smarter
-          appearance with results you can be proud of.
-        </p>
-      </section>
+     
 
       <section>
         <h2 style={{ color: "#0b5fa5" }}>
