@@ -61,8 +61,7 @@ Serving Northampton homes and businesses for over 15 years.
   ['Conservatory Roof Cleaning', 'Cleaning of conservatory roofs, frames and glass panels to restore their appearance.'],
   ['Gutter Clearing', 'Professional gutter clearing using our powerful gutter vacuum system to keep rainwater flowing freely.'],
   ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with fascia, soffit and exterior uPVC cleaning.'],
- ['Patio Pressure Washing', 'Restore patios, paths and outdoor surfaces with professional pressure washing.'],
-  ['Driveway Pressure Washing', 'Driveway and patio pressure washing to restore surfaces and improve kerb appeal.'],
+ ['Pressure Washing', 'Professional pressure washing for driveways, patios, paths and outdoor surfaces.'],
 ].map(([title, text]) => (
             <div key={title} style={cardStyle}>
   <img
@@ -71,9 +70,9 @@ Serving Northampton homes and businesses for over 15 years.
   title === 'Conservatory Roof Cleaning' ? '/Conservatory Roof clean 2.JPG' :
   title === 'Gutter Clearing' ? '/gutter-vacuum-service.jpg' :
   title === 'Fascia & Soffit Cleaning' ? '/Facia - Exteria Gutter clean.png' :
-  title === 'Patio Pressure Washing' ? '/Pattio Pressure Wash.jpg' :
+ 
 
- title === 'Driveway Pressure Washing' ? '/driveway-before-after.jpg' :
+ title === 'Pressure Washing' ? '/driveway-before-after.jpg' :
       '/house 1.jpg'
 }
 
