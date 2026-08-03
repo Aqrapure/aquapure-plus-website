@@ -150,12 +150,16 @@ Additional information:`;
         alt={title}
         width={1000}
         height={650}
-        style={{
-          width: "100%",
-          height: "auto",
-          borderRadius: "12px",
-          marginBottom: "40px",
-        }}
+       style={{
+  display: "block",
+  width: "100%",
+  maxWidth: "850px",
+  maxHeight: "520px",
+  height: "auto",
+  objectFit: "cover",
+  margin: "0 auto 40px",
+  borderRadius: "12px",
+}}
       />
 
       {children}
