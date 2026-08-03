@@ -296,9 +296,9 @@ const sectionStyle = {
 };
 
 const gridStyle = {
-  display: 'grid',
-  gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))',
-  gap: '20px',
+  display: "grid",
+  gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
+  gap: "20px",
 };
 
 const galleryStyle = {
