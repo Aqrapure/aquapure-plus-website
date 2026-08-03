@@ -97,14 +97,15 @@ Serving Northampton homes and businesses for over 15 years.
       display: "block",
     }}
   >
-    <div
-      style={{
-        ...cardStyle,
-        cursor: "pointer",
-        height: "100%",
-        boxSizing: "border-box",
-      }}
-    >
+   <div
+  className="service-card"
+  style={{
+    ...cardStyle,
+    cursor: "pointer",
+    height: "100%",
+    boxSizing: "border-box",
+  }}
+>
       <img src={imageSrc} alt={title} style={imageStyle} />
 
       <h3>{title}</h3>
