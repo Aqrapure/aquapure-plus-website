@@ -56,33 +56,76 @@ Serving Northampton homes and businesses for over 15 years.
       <section style={{ ...sectionStyle, paddingTop: '20px' }}>
         <h2>Our Services</h2>
         <div style={gridStyle}>
-          {[
-  ['Window Cleaning', 'Regular reliable window cleaning for residential and commercial properties.'],
-  ['Conservatory Roof Cleaning', 'Cleaning of conservatory roofs, frames and panels to restore their appearance.'],
-  ['Gutter Clearing', 'Professional gutter clearing using our powerful gutter vacuum system to keep rainwater flowing freely.'],
-  ['Fascia & Soffit Cleaning', 'Restore the appearance of your property with fascia, soffit and exterior uPVC cleaning.'],
- ['Pressure Washing', 'Professional pressure washing for driveways, patios, paths and outdoor surfaces.'],
-].map(([title, text]) => (
-            <div key={title} style={cardStyle}>
-  <img
-    src={
-  title === 'Window Cleaning' ? '/house window - van.jpg' :
-  title === 'Conservatory Roof Cleaning' ? '/Conservatory Roof clean 2.JPG' :
-  title === 'Gutter Clearing' ? '/gutter-vacuum-service.jpg' :
-  title === 'Fascia & Soffit Cleaning' ? '/Facia - Exteria Gutter clean.png' :
- 
+         {[
+  [
+    "Window Cleaning",
+    "Regular reliable window cleaning for residential and commercial properties.",
+    "/window-cleaning",
+    "/house window - van.jpg",
+  ],
+  [
+    "Conservatory Roof Cleaning",
+    "Cleaning of conservatory roofs, frames and panels to restore their appearance.",
+    "/conservatory-roof-cleaning",
+    "/Conservatory Roof clean 2.JPG",
+  ],
+  [
+    "Gutter Clearing",
+    "Professional gutter clearing using our powerful gutter vacuum system to keep rainwater flowing freely.",
+    "/gutter-cleaning",
+    "/gutter-vacuum-service.jpg",
+  ],
+  [
+    "Fascia & Soffit Cleaning",
+    "Restore the appearance of your property with fascia, soffit and exterior uPVC cleaning.",
+    "/fascia-soffit-cleaning",
+    "/Facia - Exteria Gutter clean.png",
+  ],
+  [
+    "Pressure Washing",
+    "Professional pressure washing for driveways, patios, paths and outdoor surfaces.",
+    "/pressure-washing",
+    "/driveway-before-after.jpg",
+  ],
+].map(([title, text, pageLink, imageSrc]) => (
+  <Link
+    key={title}
+    href={pageLink}
+    style={{
+      textDecoration: "none",
+      color: "inherit",
+      display: "block",
+    }}
+  >
+    <div
+      style={{
+        ...cardStyle,
+        cursor: "pointer",
+        height: "100%",
+        boxSizing: "border-box",
+      }}
+    >
+      <img src={imageSrc} alt={title} style={imageStyle} />
 
- title === 'Pressure Washing' ? '/driveway-before-after.jpg' :
-      '/house 1.jpg'
-}
+      <h3>{title}</h3>
 
-    alt={title}
-    style={imageStyle}
-  />
-  <h3>{title}</h3>
-  <p style={{ fontSize: '1.1rem', lineHeight: '1.6' }}>{text}</p>
-</div>
-          ))}
+      <p style={{ fontSize: "1.1rem", lineHeight: "1.6" }}>
+        {text}
+      </p>
+
+      <p
+        style={{
+          color: "#0b5fa5",
+          fontWeight: "bold",
+          marginTop: "15px",
+          marginBottom: "0",
+        }}
+      >
+        View service details →
+      </p>
+    </div>
+  </Link>
+))}
         </div>
       </section>
 
