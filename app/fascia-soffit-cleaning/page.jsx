@@ -22,7 +22,7 @@ export default function FasciaSoffitCleaningPage() {
         </h2>
 
         <p>
-          Professionally Cleaned exterior gutters, fascias and soffits make a big difference
+          Clean exterior gutters, fascias and soffits make a big difference
           to the overall appearance of your home. Our professional cleaning
           service leaves these areas looking fresh, bright and well maintained,
           leaving your property looking its best.
