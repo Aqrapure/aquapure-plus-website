@@ -316,8 +316,8 @@ Serving Northampton homes and businesses for over 15 years.
   <br />
   Contact us today for a free, no-obligation quote.
 </p>
-        <p><strong>Mark:</strong> 07849 459812</p>
-        <p><strong>Roy:</strong> 07448 863669</p>
+         <p><strong>Roy:</strong> 07448 863669</p>
+         <p><strong>Mark:</strong> 07849 459812</p>
         <p><strong>Freephone:</strong> 0800 625 0628</p>
         <p><strong>Email:</strong> {email}</p>
 
