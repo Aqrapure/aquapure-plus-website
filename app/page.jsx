@@ -1,7 +1,7 @@
 import Link from 'next/link';
 export default function Home() {
-   const phoneRoy = '07448863669';
-  const phoneMark = '07849459812';
+   const phoneRoy = '07849459812';
+  const phoneMark = '07448863669';
   const freephone = '08006250628';
   const email = 'info@aquapure-plus.co.uk';
   const whatsappMessage = encodeURIComponent(
