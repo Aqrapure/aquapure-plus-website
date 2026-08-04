@@ -1,7 +1,7 @@
 import Link from 'next/link';
 export default function Home() {
-   const phoneRoy = '07849459812';
-  const phoneMark = '07448863669';
+   const phoneRoy = '07448863669';
+  const phoneMark = '07849459812';
   const freephone = '08006250628';
   const email = 'info@aquapure-plus.co.uk';
   const whatsappMessage = encodeURIComponent(
@@ -46,7 +46,7 @@ Serving Northampton homes and businesses for over 15 years.
 
        <a href={`tel:${phoneRoy}`} style={buttonStyle}>Call Us</a>
         <a
-          href={`https://wa.me/44${phoneMark.slice(1)}?text=${whatsappMessage}`}
+          href={`https://wa.me/44${phoneRoy.slice(1)}?text=${whatsappMessage}`}
           style={greenButtonStyle}
         >
           WhatsApp Us
