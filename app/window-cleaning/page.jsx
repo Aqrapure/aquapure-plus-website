@@ -11,7 +11,7 @@ export default function WindowCleaningPage() {
     <ServicePage
       title="Window Cleaning Northampton"
       intro="Reliable professional window cleaning for residential and commercial properties throughout Northampton and nearby villages."
-      image="/spotlessly-clean.JPG"
+     image="/new-house-stock.jpg"
       price="Prices from £18"
       emailSubject="Window Cleaning Enquiry"
       serviceName="window cleaning"
