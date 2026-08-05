@@ -61,7 +61,7 @@ Serving Northampton homes and businesses for over 15 years.
     "Window Cleaning",
     "Regular reliable window cleaning for residential and commercial properties.",
     "/window-cleaning",
-    "/house window - van.jpg",
+   "/new-house-stock.jpg",
   ],
   [
     "Conservatory Roof Cleaning",
