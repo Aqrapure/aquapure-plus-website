@@ -231,6 +231,32 @@ Serving Northampton homes and businesses for over 15 years.
     </div>
   </div>
 </section>
+       <section style={{ ...sectionStyle, textAlign: "center" }}>
+  <h2>Happy With Our Service?</h2>
+
+  <p style={{ fontSize: "1.1rem", marginBottom: "25px" }}>
+    If you've used Aquapure Plus and were happy with our service, we'd really
+    appreciate you taking a moment to leave us a Google review.
+  </p>
+
+  <a
+    href="https://g.page/r/Cdtb1WhtlU99EAE/review"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      display: "inline-block",
+      background: "#0875df",
+      color: "white",
+      textDecoration: "none",
+      padding: "14px 24px",
+      borderRadius: "10px",
+      fontWeight: "bold",
+      fontSize: "1.1rem",
+    }}
+  >
+    ★ Leave Us a Google Review
+  </a>
+</section>
       <section style={sectionStyle}>
   <h2>Recent Results Across Northampton</h2>
   <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
