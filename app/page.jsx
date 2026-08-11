@@ -258,7 +258,7 @@ Serving Northampton homes and businesses for over 15 years.
   </a>
 </section>
       <section style={sectionStyle}>
-  <h2>Recent Results Across Northampton</h2>
+ <h2 style={{ textAlign: "center" }}>Recent Results Across Northampton</h2>
   <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
     A selection of our recent work.
   </p>
