@@ -54,7 +54,7 @@ Serving Northampton homes and businesses for over 15 years.
       </section>
 
       <section style={{ ...sectionStyle, paddingTop: '20px' }}>
-        <h2>Our Services</h2>
+       <h2 style={{ textAlign: "center" }}>Our Services</h2>
         <div style={gridStyle}>
          {[
   [
@@ -131,7 +131,7 @@ Serving Northampton homes and businesses for over 15 years.
       </section>
 
       <section style={sectionStyle}>
-        <h2>Why Choose Aquapure Plus?</h2>
+       <h2 style={{ textAlign: "center" }}>Why Choose Aquapure Plus?</h2>
         <p style={{ textAlign: 'center', fontSize: '1.1rem', marginBottom: '30px' }}>
  Reliable local service with professional results you can depend on.
 </p>
@@ -209,7 +209,7 @@ Serving Northampton homes and businesses for over 15 years.
   </p>
 </section>
 <section style={sectionStyle}>
-  <h2>What Our Customers Say</h2>
+ <h2 style={{ textAlign: "center" }}>What Our Customers Say</h2>
 
   <div style={gridStyle}>
     <div style={cardStyle}>
