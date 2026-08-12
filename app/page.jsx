@@ -315,7 +315,7 @@ Serving Northampton homes and businesses for over 15 years.
       </section>
 
       <section style={sectionStyle}>
-        <h2>Areas We Cover</h2>
+      <h2 style={{ textAlign: "center" }}>Areas We Cover</h2>
        <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 20px' }}>
   We provide regular window cleaning, gutter clearing, conservatory roof cleaning
   and exterior cleaning services throughout Northampton and the surrounding villages.
