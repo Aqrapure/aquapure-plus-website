@@ -12,7 +12,7 @@ export default function PressureWashingPage() {
       title="Pressure Washing Northampton"
       intro="Professional pressure washing for patios, driveways and outdoor surfaces to restore the appearance of your property."
       image="/driveway-before-after.jpg"
-      price="Free, no-obligation quotations"
+      price="Prices from £120"
       emailSubject="Pressure Washing Enquiry"
       serviceName="pressure washing"
     >
