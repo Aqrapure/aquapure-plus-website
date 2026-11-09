@@ -87,6 +87,13 @@ Serving Northampton homes and businesses for over 15 years.
     "/pressure-washing",
     "/driveway-before-after.jpg",
   ],
+  [
+    "Cladding Cleaning",
+    "Restore the appearance of your property's exterior with professional cladding cleaning.",
+    "/cladding-cleaning",
+    "/cladding-facia-after.jpg",
+  ],
+       
 ].map(([title, text, pageLink, imageSrc]) => (
   <Link
     key={title}
