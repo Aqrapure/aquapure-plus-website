@@ -354,7 +354,7 @@ Serving Northampton homes and businesses for over 15 years.
         <p><strong>Freephone:</strong> 0800 625 0628</p>
         <p><strong>Email:</strong> {email}</p>
 
-        <<a href={`tel:${phoneRoy}`} style={buttonStyle}>Call Now</a>
+       <a href={`tel:${phoneRoy}`} style={buttonStyle}>Call Now</a>
         <a
           href={`https://wa.me/44${phoneRoy.slice(1)}?text=${whatsappMessage}`}
           style={greenButtonStyle}
